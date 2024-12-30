@@ -1,0 +1,48 @@
+[gd_scene load_steps=7 format=2]
+
+[ext_resource path="res://Avatar/KinematicBody2DPlant.tscn" type="PackedScene" id=1]
+[ext_resource path="res://Picture/Scene/Tree1/Tree1_4_BG.png" type="Texture" id=2]
+[ext_resource path="res://Picture/Scene/Tree1/Tree1_4_3.png" type="Texture" id=3]
+[ext_resource path="res://Picture/Scene/Tree1/Tree1_4_Mulch.png" type="Texture" id=4]
+[ext_resource path="res://Script/Avatar/Plant/Tree1_4_3.gd" type="Script" id=5]
+
+[sub_resource type="CapsuleShape2D" id=1]
+radius = 31.0
+height = 44.0
+
+[node name="Tree1_4_3" instance=ExtResource( 1 )]
+script = ExtResource( 5 )
+
+[node name="textureRectBG" parent="." index="0"]
+margin_left = -64.0
+margin_top = -64.0
+margin_right = 64.0
+margin_bottom = 0.0
+texture = ExtResource( 2 )
+
+[node name="spriteIdleToLeft" parent="." index="1"]
+texture = ExtResource( 3 )
+offset = Vector2( 0, -32 )
+
+[node name="spriteBeEatenToLeft" parent="." index="2"]
+texture = ExtResource( 3 )
+offset = Vector2( 0, -32 )
+
+[node name="spriteSwayToLeft" parent="." index="3"]
+texture = ExtResource( 3 )
+offset = Vector2( 0, -31 )
+
+[node name="textureRectMulch" parent="." index="4"]
+margin_left = -64.0
+margin_top = -6.0
+margin_right = 64.0
+margin_bottom = -1.0
+texture = ExtResource( 4 )
+
+[node name="collisionShape2D2" parent="area2DMouse" index="0"]
+position = Vector2( 0, -34 )
+rotation = 1.5708
+shape = SubResource( 1 )
+
+[node name="visibilityNotifier2DScreen" parent="." index="7"]
+rect = Rect2( -53, -65, 106, 65 )

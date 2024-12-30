@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/SoundEffect_OfficeVendingMachineCoinReturn_2.mp3-3e8fd555b2f716a58f9ada8f1969f5b2.mp3str"
+
+[deps]
+
+source_file="res://Audio/SoundEffect_OfficeVendingMachineCoinReturn_2.mp3"
+dest_files=[ "res://.import/SoundEffect_OfficeVendingMachineCoinReturn_2.mp3-3e8fd555b2f716a58f9ada8f1969f5b2.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

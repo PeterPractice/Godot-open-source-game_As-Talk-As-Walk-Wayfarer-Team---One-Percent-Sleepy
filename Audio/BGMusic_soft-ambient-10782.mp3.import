@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/BGMusic_soft-ambient-10782.mp3-9026f813274280b6a6c60ce524d07661.mp3str"
+
+[deps]
+
+source_file="res://Audio/BGMusic_soft-ambient-10782.mp3"
+dest_files=[ "res://.import/BGMusic_soft-ambient-10782.mp3-9026f813274280b6a6c60ce524d07661.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

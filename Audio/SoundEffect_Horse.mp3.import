@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/SoundEffect_Horse.mp3-d6b9adc09c73b8a9397bd80b3e2c229a.mp3str"
+
+[deps]
+
+source_file="res://Audio/SoundEffect_Horse.mp3"
+dest_files=[ "res://.import/SoundEffect_Horse.mp3-d6b9adc09c73b8a9397bd80b3e2c229a.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

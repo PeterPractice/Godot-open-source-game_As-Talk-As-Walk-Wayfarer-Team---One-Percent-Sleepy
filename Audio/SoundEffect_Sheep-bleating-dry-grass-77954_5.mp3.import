@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/SoundEffect_Sheep-bleating-dry-grass-77954_5.mp3-d4b9c4d0ba6c35106ea3428628cbc38e.mp3str"
+
+[deps]
+
+source_file="res://Audio/SoundEffect_Sheep-bleating-dry-grass-77954_5.mp3"
+dest_files=[ "res://.import/SoundEffect_Sheep-bleating-dry-grass-77954_5.mp3-d4b9c4d0ba6c35106ea3428628cbc38e.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,487 @@
+stringKey,stringContent
+NAME_GAME_NAME,واحد في المئة من الطرق
+NAME_1,أرض السعادة
+NAME_2,AMan
+NAME_2_EYE,عين آمان
+NAME_AVATAR_1,لايتنج 1
+NAME_AVATAR_2,فرق
+NAME_AVATAR_3,تشن شياو مينغ
+NAME_AVATAR_4,Bai Ding
+NAME_AVATAR_5,سيارات مثيرة
+NAME_AVATAR_6,لايتنج 2
+NAME_AVATAR_7,لايتنج 3
+NAME_AVATAR_8,ليجي
+NAME_AVATAR_9,إلهة الشمس
+NAME_AVATAR_10,إلصاق
+NAME_AVATAR_11,! لزجة
+NAME_AVATAR_12,لزجة …
+NAME_AVATAR_13,حب لزج
+NAME_AVATAR_14,مفرغة
+NAME_AVATAR_15,سرقة لزجة
+NAME_AVATAR_16,لزجة؟
+NAME_AVATAR_17,لزجة
+NAME_AVATAR_18,الغرب دافئ
+NAME_AVATAR_19,. الأميرة
+NAME_AVATAR_19_2,خريف يو
+NAME_AVATAR_20,الفضة التنين
+NAME_AVATAR_21,! لزجة
+NAME_AVATAR_22,سنة لزجة
+NAME_AVATAR_23,اللصق
+NAME_AVATAR_24,لزجة …
+NAME_AVATAR_25,أي ملك
+NAME_AVATAR_26,تعالي يا إمبراطورة
+NAME_AVATAR_27,(الأميرة (ميمي
+NAME_AVATAR_28,مدبرة المنزل
+NAME_AVATAR_29,مدبرة منزل
+NAME_AVATAR_30,حقيبة ظهر
+NAME_AVATAR_31,دفتر مذكرات
+NAME_AVATAR_32,. رسالة من
+NAME_AVATAR_33,ثلاثة تنانين
+NAME_AVATAR_34,. رسالة من
+NAME_AVATAR_35,كيم كيم)؟
+NAME_AVATAR_36,الممرات السرية
+NAME_AVATAR_SHEEP,الأغنام
+NAME_AVATAR_HOLLY,شجرة الشتوي
+GOODS_NAME_1,أحذية استكشافية
+GOODS_NAME_2,المنظار
+GOODS_NAME_3,شعر مستعار
+GOODS_NAME_4,شعر مستعار
+GOODS_NAME_5,شعر مستعار
+GOODS_NAME_6,شعر مستعار
+GOODS_NAME_7,شعر طويل
+GOODS_NAME_8,شعر طويل
+GOODS_NAME_9,شعر طويل
+GOODS_NAME_10,شعر طويل
+GOODS_NAME_11,شعر مستعار متغير
+GOODS_NAME_HOUSEKEEPERKEY,. المفتاح المفتاح
+GOODS_NAME_BUTLERKEY,. المفتاح
+GOODS_NAME_QUEENKEY,. المفتاح المفتاح
+GOODS_NAME_NUMBERINGROD,عصا الترقيم
+GOODS_DESCRIPTION_1,مع هذا الزوج من الأحذية يمكن المشي تلقائيا.
+GOODS_DESCRIPTION_2,أبعد من ذلك، وخاصة في الأماكن التي يكون فيها الضوء سيئا.
+GOODS_DESCRIPTION_3,. أجل، أجل، أجل -
+GOODS_DESCRIPTION_4,. أجل، أجل، أجل -
+GOODS_DESCRIPTION_5,. أجل، أجل، أجل -
+GOODS_DESCRIPTION_6,. أجل، أجل، أجل -
+GOODS_DESCRIPTION_7,. أجل، أجل، أجل -
+GOODS_DESCRIPTION_8,. أجل، أجل، أجل -
+GOODS_DESCRIPTION_9,. أجل، أجل، أجل -
+GOODS_DESCRIPTION_10,. أجل، أجل، أجل -
+GOODS_DESCRIPTION_11,فحقيبة الظهر تحمل الكثير من الاشياء، المغامرات، الادوات الضرورية للتنزه.
+GOODS_DESCRIPTION_12,تسجيل ما يرونه، ما يرونه، وما يرونه، وما يرونه، وما يرونه، وما يرونه.
+GOODS_DESCRIPTION_18,. أجل، أجل، أجل - مصنوعة من مواد خاصة.
+GOODS_DESCRIPTION_HOUSEKEEPERKEY,عندما تحمله، يمكنك فتح {ooror.
+GOODS_DESCRIPTION_BUTLERKEY,عندما تحمله، يمكنك فتحه.
+GOODS_DESCRIPTION_QUEENKEY,عندما تحمل، يمكنك فتح الباب.
+GOODS_DESCRIPTION_NUMBERINGROD,رقمها
+GOODS_IN_USE,الاستخدام.
+GOODS_UNUSED,غير مستخدم.
+GOODS_TELESCOPE_VISUALFIELDDISTANCE,المسافة الرؤية: %s.
+GOODS_TELESCOPE_VISUALFIELDSHARPTYPE,شكل الرؤية: %s.
+GOODS_TELESCOPE_VISUALFIELDSHARPTYPE_RHOMBUS,المعين
+GOODS_TELESCOPE_VISUALFIELDSHARPTYPE_EGG,DanXing
+GOODS_TELESCOPE_VISUALFIELDDISTANCE2,مسافة الرؤية: %s (+ %s).
+JOB_LOBBYIST,الضاغط
+PLAY_CHESS_NAME,DuiYi
+PLAY_CHESS_POINTS,. أعد العد
+SCENE_NAME_1_HOME,. في المنزل
+SCENE_NAME_3_HOME,. في المنزل
+SCENE_NAME_4_HOME,. في المنزل
+SCENE_NAME_3_HOME_COURTYARD,في ساحة المنزل
+SCENE_NAME_CHORD_SQUARE,ميدان الوتر
+SCENE_NAME_STAVE_AVENUE,جادة الخمسة
+SCENE_NAME_HALL_OF_MELODY,قاعة اللحن
+SCENE_NAME_CLINKER_VALLEY,. إمشي
+SCENE_NAME_CRACKING_VOICE_RIDGE,حاجز الصوت
+SCENE_NAME_GRASSLAND,ملعب كرة القدم
+NPCARTICLETRIGGER_NAME_1,. باب المنزل
+NPCARTICLETRIGGER_NAME_2,عند باب المنزل
+NPCARTICLETRIGGER_NAME_3,. باب المنزل
+STARTGAMEPANEL_TITLELABEL38GAMETITLE,{NAME_GAME_NAME}
+STARTGAMEPANEL_COMMONLABELVERSION,Version %s
+STARTGAMEPANEL_COMMONBUTTON31LOADGAME,تحميل اللعبة
+STARTGAMEPANEL_STARTGAME,ابدأ اللعبة
+STARTGAMEPANEL_CONTINUEGAME,تابع اللعبة
+STARTGAMEPANEL_COMMONBUTTON31OPTION,الخيار
+STARTGAMEPANEL_COMMONBUTTON31EXITGAME,أخرج من اللعبة
+STARTGAMEPANEL_COMMONLABELARCHIVE,وحفظت
+STARTGAMEPANEL_ARCHIVE_NEW_GAME,لعبة جديدة
+STARTGAMEPANEL_ARCHIVE_CLEAR,حذف
+STARTGAMEPANEL_ARCHIVE_CLEAR_DOUBLE_CONFIRMATION,احذف أرشيف %s تأكيد ثانوي
+PANEL_BUTTON_OK,تحديد
+PANEL_BUTTON_CANCEL,إلغاء
+PANEL_BUTTON_CLOSE,إغلاق
+PANEL_BUTTON_YES,هو
+PANEL_BUTTON_NO,لا
+OPTIONPANEL_COMMONLABEL31TITLE,واجهة الخيارات
+OPTIONPANEL_COMMONBUTTONLANGUAGE,اختر اللغة (Language)
+OPTIONPANEL_COMMONLABELVIDEORESOLUTIONRATIO,استبانة الصور:
+OPTIONPANEL_COMMONLABELFULLSCREEN,شاشة كاملة:
+OPTIONPANEL_COMMONLABELWINDOWSTRETCH,تمدد الصورة:
+OPTIONPANEL_COMMONLABELMUSIC,الموسيقى:
+OPTIONPANEL_COMMONLABELSOUNDEFFECT,المؤثرات الصوتية:
+OPTIONPANEL_COMMONLABELVIDEORESOLUTIONRATIO_2,1280x720
+OPTIONPANEL_COMMONLABELVIDEORESOLUTIONRATIO_3,1920x1080
+OPTIONPANEL_SCREEN_RESOLUTION,وضوح الشاشة
+OPTIONPANEL_COMMONLABELLANGUAGE,اللغة:
+OPTIONPANEL_COMMONBUTTONDEFAULT,افتراضي
+OPTIONPANEL_COMMONBUTTONRETURNTOHUBSCENE,العودة إلى القاعة
+OPTIONPANEL_COMMONBUTTONEXITGAME,أخرج من اللعبة
+OPTIONPANEL_COMMONBUTTONRETURNTOGAME,العودة إلى اللعبة
+OPTIONPANEL_GENERAL,جنرال
+OPTIONPANEL_KEYBOARD,الزر
+OPTIONPANEL_KEYBOARD_MOVE,تحرك:
+OPTIONPANEL_KEYBOARD_MOVE_CONTENT,ADSW (or ←→↓↑)
+OPTIONPANEL_KEYBOARD_INTERACTION_TALK,{DOWNPANEL_INTERACTION}:
+OPTIONPANEL_KEYBOARD_INTERACTION_TALK_CONTENT,E
+OPTIONPANEL_KEYBOARD_WAVE,التلويح:
+OPTIONPANEL_KEYBOARD_WAVE_CONTENT,Enter(or Space)
+OPTIONPANEL_KEYBOARD_BAG,حقيبة الظهر:
+OPTIONPANEL_KEYBOARD_BAG_CONTENT,B
+OPTIONPANEL_KEYBOARD_OPTIONS_SCREEN,واجهة الخيارات:
+OPTIONPANEL_KEYBOARD_OPTIONS_SCREEN_CONTENT,O
+OPTIONPANEL_KEYBOARD_YES,هو: 
+OPTIONPANEL_KEYBOARD_YES_CONTENT,Y
+OPTIONPANEL_KEYBOARD_NO,لا: 
+OPTIONPANEL_KEYBOARD_NO_CONTENT,N
+OPTIONPANEL_ABOUT,بشأن
+OPTIONPANEL_ABOUT_NAME_OF_THE_GAME,Game Name: {NAME_GAME_NAME}.
+OPTIONPANEL_ABOUT_VERSION,الإصدار: %s.
+OPTIONPANEL_ABOUT_COPYRIGHT_AND_DEVELOPMENT,الوصف: %s.
+OPTIONPANEL_ABOUT_CONTACT,الاتصال: %s.
+OPTIONPANEL_ABOUT_CONTACT_COPY,نسخ
+OPTIONPANEL_ABOUT_THANKS,شكرا: شكرا لعائلتي، بدون دعمهم، لا توجد هذه اللعبة.
+LANGUAGEPANEL_COMMONLABEL31TITLE,اختر اللغة
+TIME_YEAR,عام
+TIME_MONTH,/
+TIME_DAY,/
+TIME_HOUR,عندما
+TIME_MINUTE,دون
+TIME_SECOND,ثانية
+BOOTSCENE_STARTING_STRING1,جاري التشغيل
+BOOTSCENE_STARTING_STRING2,بدء التشغيل.
+BOOTSCENE_STARTING_STRING3,بدء التشغيل …
+BOOTSCENE_STARTING_STRING4,تشغيل …
+DAYNIGHTPANEL_COMMONLABELDAYSNUMBER,الأيام %s
+DAYNIGHTPANEL_FIRSTSTARTNIGHT,سيحل الظلام
+CURRENTSCENESHOWNAME_ENTER,أدخل %s.
+DOWNPANEL_INTERACTION,التفاعلية
+DOWNPANEL_CONTROLBAGUSE_COMMONBUTTON13BAGUSE,استخدام
+DOWNPANEL_CONTROLBAGUSE_COMMONBUTTON13DISCARD,رمي بعيدا
+DOWNPANEL_WRANGLEDIALOG_ASK_DISCARD,رمي بعيدا ؟
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_1,الرماد ينطفئ، ثم يحرق.
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_2,واضح.
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_3,نظيفة
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_4,فارغة.
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_5,فارغ فارغ
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_6,فارغ فارغ
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_7,فارغة، فارغة، فارغة.
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_8,فارغة، فارغة، فارغة.
+IN_CD,إنه يبرد
+AVATAR_CAN_NOT_MOVE,لا تتحرك.
+AVATAR_HAD_EQUIP,ارتداء بالفعل: %s.
+AVATAR_HAD_EQUIP2,بالفعل ارتدائه.
+CHESSPANEL1_PLAYCHESS_START,. هيّا، هيّا
+CHESSPANEL1_PLAYCHESS_SUCCESS,. لقد نجحت
+CHESSPANEL1_PLAYCHESS_FAILURE,. لقد فشلت
+CHESSPANEL1_COMMONBUTTONCONTINUE,مواصلة
+CHESSPANEL1_MOUSECLICKCONTINUE,(انقر زر الفأرة اليسرى على أي مكان)
+CHESSPANEL1_POINTS,%s نقطة المباراة %s
+SLOGAN_NEW_DAY_1,بدأ يوم جديد.
+SLOGAN_NEW_DAY_2,بدأ يوم المغامرة.
+SLOGAN_NEW_DAY_3,يوم جديد
+SLOGAN_NEW_DAY_4,مغامرة اليوم.
+SLOGAN_NEW_DAY_5,رحلة طويلة
+SLOGAN_NEW_DAY_6,إنها رحلة طويلة، إستعدوا للإنطلاق
+SLOGAN_NEW_DAY_7,على استعداد للذهاب.
+SLOGAN_NEW_DAY_8,لنتحرك
+SLOGAN_AVATAR_DEAD_1,والليل يلتهم الناس الذين لا يخافون من الظلام.
+SLOGAN_AVATAR_DEAD_2,لقد حل الظلام، تم ابتلاعك من الليل.
+NAVIGATIONMANAGER_NOT_VALID_PATH_END_POSITION,وجهة غير صالحة.
+NAVIGATIONMANAGER_END_OBSTRUCTIONS_NEARBY,التوقف عن البحث التلقائي، وهناك عقبات في مكان قريب.
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_1,حذاء واحد يعني زوج من الأحذية؟
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_2,القدم اليسرى والقدم اليمنى هما حذاء؟
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_3,أين البطاريات؟
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_4,لا يوجد مفتاح
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_5,أين المفتاح؟
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_6,ارتديت بالفعل.
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_7,سوف نجد الطريق تلقائياً
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_8,لن تضيع هذه المرة.
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_9,إلى أين نحن ذاهبون؟
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_10,لنرى أين سنذهب
+GOODSUSEFUNCTION_PUTONEQUIP_TELESCOPE_1,انظر أبعد من ذلك.
+GOODSUSEFUNCTION_PUTONEQUIP_TELESCOPE_2,رؤية أفضل.
+GOODSADDFUNCTION_TELESCOPE_1,مهارات جديدة، المستبصر.
+GOODSADDFUNCTION_TELESCOPE_2,لا يمكن أن يكون بعشرة أمتار
+GOODSREMOVEFUNCTION_TELESCOPE_1,لا أستطيع النظر أبعد من ذلك
+GOODSREMOVEFUNCTION_TELESCOPE_2,هل هذا غير مريح؟
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_1,متألق
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_2,غيانغ هوايون.
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_3,شجرة الذرة.
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_4,ارفع رأسك
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_5,محترف
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_6,الناس يعتمدون على الشعر والحصان على السرج.
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_7,قد يكون هناك ترقية فكرية.
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_8,الذكاء + 1.
+GOODSADDFUNCTION_WIG_1,أشياء جيدة.
+GOODSADDFUNCTION_WIG_2,وجدت أخيرا.
+GOODSADDFUNCTION_WIG_3,هذا لطيف
+GOODSADDFUNCTION_WIG_OTHER_1,شعر مستعار؟
+GOODSADDFUNCTION_WIG_OTHER_2,يجب أن ترتدي شعراً مستعراً
+GOODSADDFUNCTION_WIG_OTHER_3,شعر مستعار؟
+GOODSREMOVEFUNCTION_WIG_1,الذكاء -1.
+GOODSREMOVEFUNCTION_WIG_2,برأس بارد
+GOODSREMOVEFUNCTION_WIG_3,هذا غير مهني بعد الآن.
+GOODSREMOVEFUNCTION_WIG_4,تشعر بتناقص الذكاء.
+GOODSREMOVEFUNCTION_WIG_5,الشعر المستعار المحترق هو مثل الشعر المحترق.
+GOODSREMOVEFUNCTION_WIG_6,ليس من المؤسف رمي الشعر المستعار بعيدا.
+GOODSREMOVEFUNCTION_WIG_7,إنه محترف بدون شعر مستعار.
+GOODSREMOVEFUNCTION_WIG_8,لا يمكن المهني الاعتماد على الشعر المستعار.
+GOODSADDFUNCTION_FOOT_1,الآن نعرف أين نذهب
+GOODSADDFUNCTION_FOOT_2,هل هذا الحذاء رائع؟ الملاحة؟
+GOODSADDFUNCTION_FOOT_3,هل يحتاج التوجيه للأحذية إلى طاقة؟
+GOODSADDFUNCTION_FOOT_4,هو رمي الأحذية الملاحة؟
+GOODSADDFUNCTION_FOOT_5,كيف تسير الأمور مع الأحذية
+GOODSREMOVEFUNCTION_FOOT_1,عارية
+GOODSREMOVEFUNCTION_FOOT_2,لا يمكن الملاحة.
+GOODSREMOVEFUNCTION_FOOT_3,التي تخلصت منها واختفت ببساطة فقدان الملاحة، اذهب بنفسك خطوة بخطوة.
+CANNOT_WEAR_IT_LOBBYIST_WIG_1,لا أستطيع ارتداء شعر مستعار
+CANNOT_WEAR_IT_LOBBYIST_WIG_2,هذا شعر مستعار
+BAG_IS_FULL,حقيبة الظهر ممتلئة ولا يمكن حمل المزيد من الأشياء.
+BAG_ADD,الحصول على: %s.
+BAG_REMOVE,رمي بعيدا: %s.
+BAG_USE,الاستخدام: %s.
+TOP_BUTTON,الزر العلوي
+BOTTOM_BUTTON,الزر السفلي
+CLEAR_BUTTON,إفراغ الزر
+AVATAR_DESCRIPTION_1,أنا ثعبان، ثعبان قوي. أنا الأكبر من الإخوة الثلاثة.
+AVATAR_DESCRIPTION_2,فكنت اركض كغيوم السماء.
+AVATAR_DESCRIPTION_3,لقد بدأت بالفعل تعلم الأدب الكلاسيكي والموسيقى والرسم.
+AVATAR_DESCRIPTION_4,محام، لاعب كرة قدم، وشعري المستعار.
+AVATAR_DESCRIPTION_8,أنا رجل أعمال، الصفقة العادلة هي عقيدتي.
+AVATAR_DESCRIPTION_6,أنا ثعبان، ثعبان قوي، وضعت ثعبان درع. كنت في المرتبة الثانية بين الإخوة الثلاثة.
+AVATAR_DESCRIPTION_7,أنا ثعبان، ثعبان قوي، ثعبان يرتدي الدروع والذراع الميكانيكية. كنت في المرتبة الثالثة بين الإخوة الثلاثة.
+AVATAR_DESCRIPTION_5,السرعة هي المعنى الأول. طلابي أقوياء لقد كنت أبحث عن مكان بعيد.
+AVATAR_DESCRIPTION_9,اذا لزم الامر، فتحدث معي. كلبي يتجول في كثير من الأحيان، هل تراها؟
+AVATAR_DESCRIPTION_10,نحن لسنا حشرات، عائم لنا.
+AVATAR_DESCRIPTION_11,نحن لسنا حشرات
+AVATAR_DESCRIPTION_12,نحن لسنا حشرات مثلنا
+AVATAR_DESCRIPTION_13,نحن لسنا حشرات، نفعل ما يحلو لنا
+AVATAR_DESCRIPTION_14,نحن لسنا حشرات، السترة الخارجية دافئة.
+AVATAR_DESCRIPTION_15,نحن لسنا حشرات، بل هي تجربة.
+AVATAR_DESCRIPTION_16,نحن لسنا حشرات، لا ننظر إلى المستقبل، نحن بطبيعتنا.
+AVATAR_DESCRIPTION_17,نحن لسنا حشرات، شفقة، هو موقف.
+AVATAR_DESCRIPTION_18,فَسَأَعْبُرُ ٱلْمَعْمُورَةَ وَٱلْمَعْمُورَةَ، كَٱلنُّجُومِ ٱلسَّمٰوَاتِ.
+AVATAR_DESCRIPTION_19,الأميرة ليست مهنة الشخص، والأميرة لديها أيضا العديد من الأصدقاء الطيبين.
+AVATAR_DESCRIPTION_20,ويجب أن تكون هذه العملية سرية ولا يمكن كشفها.
+AVATAR_DESCRIPTION_21,نحن لسنا حشرات، نحن واحد من كل واحد منا.
+AVATAR_DESCRIPTION_22,نحن لسنا حشرات نحن صغار
+AVATAR_DESCRIPTION_23,نحن لسنا حشرات، إصلاح، إنها حياة.
+AVATAR_DESCRIPTION_24,نحن لسنا حشرات، إنها حياة، بل موقف.
+AVATAR_DESCRIPTION_25,أنا الملك، مرحباً بك
+AVATAR_DESCRIPTION_26,أنا الملكة، مرحباً بك
+AVATAR_DESCRIPTION_27,أنا أميرة كبيرة والعرش لي.
+AVATAR_DESCRIPTION_28,لابد أنك جائع ماذا تريد؟ قل لي.
+AVATAR_DESCRIPTION_29,الخدمة هي هدفي. قبعتي جميلة ولن أستخدم شعر مستعار
+ADDAVATARFROMSCENE_ADD_TEAM_MEMBERS,إضافة أعضاء جدد إلى الفريق: %s.
+TEAM_MEMBERS_REPEATEDLY,لا يمكن تكرار إضافة أعضاء الفريق: %s.
+MAXIMUM_OF_AVATAR,%s في المئة من الناس في الفريق.
+TIPS_STRING_AND_FLAG,،
+NO_JOURNALRECORDBOOK,. لا يوجد شيء
+NO_BAG,. لا يوجد شيء
+SCENE_CONTENT_1_HOME,هناك قوة قوية في المنزل.
+SCENE_CONTENT_3_HOME,هناك طاولة في المنزل، هناك طاولة على الطاولة 31.
+SCENE_CONTENT_4_HOME,كان هناك سرير في المنزل
+SCENE_CONTENT_3_HOME_COURTYARD,. في ساحة المنزل
+SCENE_CONTENT_CHORD_SQUARE,الأصدقاء الصغار يتجمعون هنا
+SCENE_CONTENT_STAVE_AVENUE,الطريق إلى المجهول. يقال أن هناك عدة طرق هنا.
+SCENE_CONTENT_HALL_OF_MELODY,هذا هو القصر، هناك العديد من الغرف.
+SCENE_CONTENT_CLINKER_VALLEY,في المنفى، حيث يمكن العثور على الشخص الذي يبحث عنه.
+SCENE_CONTENT_CRACKING_VOICE_RIDGE,جبال وغابات كثيفة
+SCENE_CONTENT_PLAY_CHESS,لنتنافس في مكان ما، حظا سعيدا.
+PLANET_47,الكوكب 47
+PLAYCHESSSUCCESSFUNCTION_AVATAR_9_STRING,النجاح لم يكن سهلا أبدا.
+PLAYCHESSFAILUREFUNCTION_AVATAR_9_STRING,الفشل لن يدوم إلى الأبد.
+I_LIKE_LOBBYIST,أنا أحب الناس الذين يتحدثون.
+IS_DOG1,هل هذا أنت؟
+YOU_ARE_A_TALL_FELLOW,أنت شخص طويل!
+WINS_AND_LOSSES_ARE_COMMON_1,الفوز أو الخسارة أمر طبيعي.
+WINS_AND_LOSSES_ARE_COMMON_2,السرعة هي المعنى الأول.
+WINS_AND_LOSSES_ARE_COMMON_3,طلابي أقوياء
+WINS_AND_LOSSES_ARE_COMMON_4,لقد كنت أبحث عن مكان بعيد.
+I_DONOT_HAVE_MY_BEST_FRIEND_HERE,سأذهب مع أفضل أصدقائي
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_1_1,افتحه
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_1_2,افتحها
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_2_1,المعرفة هي القوة.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_2_2,السجل هو الحياة.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_3_1,لعزل العالم.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_3_2,حافظ على الهدوء.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_9_1,في كل مكان.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_9_2,لم يكن هناك جهد
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_10_1,رسالة من المدرسة
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_10_2,رسالة من صديق
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_11_1,الصمت.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_11_2,الصمت.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_11_3,التكرار هو وصفة النصر.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_11_4,هناك سر لفعل الأشياء.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_11_5,المزيد من التسرع، قليل من التهور.
+PLAYCHESSFAILUREFUNCTION_NPCARTICLE_ODETOJOY,أنا حارس الملك المخلص
+PLAYCHESSSTARTWORDSKEY_AVATAR_1_1,النصر
+PLAYCHESSSTARTWORDSKEY_AVATAR_1_2,يَرْبحُ.
+PLAYCHESSSTARTWORDSKEY_AVATAR_2_1,الحظ هو لمسه.
+PLAYCHESSSTARTWORDSKEY_AVATAR_2_2,حظا سعيدا هو أيضا لمسه.
+PLAYCHESSSTARTWORDSKEY_AVATAR_3_1,أنا بالفعل على فرصة للفوز.
+PLAYCHESSSTARTWORDSKEY_AVATAR_3_2,هذه أيضا فرصة للتعلم.
+PLAYCHESSSTARTWORDSKEY_AVATAR_4_1,الكلام الجيد لا يعني الحظ الجيد
+PLAYCHESSSTARTWORDSKEY_AVATAR_4_2,التعبير يجب أن يكون
+PLAYCHESSSTARTWORDSKEY_AVATAR_5_1,بعيد
+PLAYCHESSSTARTWORDSKEY_AVATAR_5_2,رائع
+PLAYCHESSSTARTWORDSKEY_AVATAR_6_1,تأتي وتذهب.
+PLAYCHESSSTARTWORDSKEY_AVATAR_6_2,. مثل
+PLAYCHESSSTARTWORDSKEY_AVATAR_7_1,ذراع الحديد.
+PLAYCHESSSTARTWORDSKEY_AVATAR_7_2,قوة قوية.
+PLAYCHESSSTARTWORDSKEY_AVATAR_8_1,المساومة هي عمل رجل الأعمال.
+PLAYCHESSSTARTWORDSKEY_AVATAR_8_2,كل شيء له ثمن.
+PLAYCHESSSTARTWORDSKEY_AVATAR_9_1,دافئ الشمس يحيط بك.
+PLAYCHESSSTARTWORDSKEY_AVATAR_9_2,الشمس تشرق عليك.
+PLAYCHESSSTARTWORDSKEY_AVATAR_10_1,قدرتي على التحمل جيدة.
+PLAYCHESSSTARTWORDSKEY_AVATAR_10_2,مزاجي جيد.
+PLAYCHESSSTARTWORDSKEY_AVATAR_11_1,لدي الكثير من الأصدقاء.
+PLAYCHESSSTARTWORDSKEY_AVATAR_11_2,اعتدت أنا وأصدقائي على الاجتماع.
+PLAYCHESSSTARTWORDSKEY_AVATAR_12_1,كيف تجرؤ على تحدي لي؟
+PLAYCHESSSTARTWORDSKEY_AVATAR_12_2,أنت تلعب بالنار.
+PLAYCHESSSTARTWORDSKEY_AVATAR_13_1,الطفو هو الحب.
+PLAYCHESSSTARTWORDSKEY_AVATAR_13_2,لآلاف السنين
+PLAYCHESSSTARTWORDSKEY_AVATAR_14_1,لدي الكثير من الإخوة.
+PLAYCHESSSTARTWORDSKEY_AVATAR_14_2,لدي العديد من الأخوات.
+PLAYCHESSSTARTWORDSKEY_AVATAR_15_1,مثالي وواقعي، أيهما تختار؟
+PLAYCHESSSTARTWORDSKEY_AVATAR_15_2,السمك المالح ليس لديه مثالية.
+PLAYCHESSSTARTWORDSKEY_AVATAR_16_1,أنا بخير، أنا سو.
+PLAYCHESSSTARTWORDSKEY_AVATAR_16_2,السماء والقلب والصدر.
+PLAYCHESSSTARTWORDSKEY_AVATAR_17_1,الرياح قوية هنا.
+PLAYCHESSSTARTWORDSKEY_AVATAR_17_2,الرياح تهب بقوة
+PLAYCHESSSTARTWORDSKEY_AVATAR_18_1,يأتي الزهري.
+PLAYCHESSSTARTWORDSKEY_AVATAR_18_2,المعاناة هي الحياة.
+PLAYCHESSSTARTWORDSKEY_AVATAR_19_1,المستقبل لديه ترتيبات مستقبلية.
+PLAYCHESSSTARTWORDSKEY_AVATAR_19_2,هناك ترتيبات اليوم اليوم.
+PLAYCHESSSTARTWORDSKEY_AVATAR_20_1,بجدية، هو موقف.
+PLAYCHESSSTARTWORDSKEY_AVATAR_20_2,موقفي جاد ومعتز.
+PLAYCHESSSTARTWORDSKEY_AVATAR_21_1,هناك شيء في العالم
+PLAYCHESSSTARTWORDSKEY_AVATAR_21_2,أنت وأنا فريدة من نوعها.
+PLAYCHESSSTARTWORDSKEY_AVATAR_22_1,عندما كنت صغيرا كنت اقوى
+PLAYCHESSSTARTWORDSKEY_AVATAR_22_2,لدي الكثير من القوة الآن
+PLAYCHESSSTARTWORDSKEY_AVATAR_23_1,صقل نفسك.
+PLAYCHESSSTARTWORDSKEY_AVATAR_23_2,انظر إلى نفسك.
+PLAYCHESSSTARTWORDSKEY_AVATAR_24_1,إصلاح نفسه.
+PLAYCHESSSTARTWORDSKEY_AVATAR_24_2,تم اصلاحها بنفسك
+PLAYCHESSSTARTWORDSKEY_AVATAR_25_1,التاج مصنوع من الذهب.
+PLAYCHESSSTARTWORDSKEY_AVATAR_25_2,التاج يلمع.
+PLAYCHESSSTARTWORDSKEY_AVATAR_26_1,ولا بد من مسح المزيد من التاج اللامع.
+PLAYCHESSSTARTWORDSKEY_AVATAR_26_2,التاج مصنوع من الذهب، وهذا يمثل نوعية.
+PLAYCHESSSTARTWORDSKEY_AVATAR_27_1,كل شيء عن الفوز أو الخسارة.
+PLAYCHESSSTARTWORDSKEY_AVATAR_27_2,كل ما أريده
+PLAYCHESSSTARTWORDSKEY_AVATAR_28_1,كما ان الغرف النظيفة تحتاج الى عناية مستمرة.
+PLAYCHESSSTARTWORDSKEY_AVATAR_28_2,تنظيف الغرف ليس مهمة بسيطة.
+PLAYCHESSSTARTWORDSKEY_AVATAR_29_1,ليس من السهل الإصرار على القيام بعمل لفترة طويلة.
+PLAYCHESSSTARTWORDSKEY_AVATAR_29_2,ليس من السهل الاعتناء بقصر
+PLAYCHESSSTARTWORDSKEY_AVATAR_30_1,لا يجب أن تراني
+PLAYCHESSSTARTWORDSKEY_AVATAR_30_2,لا يمكنك رؤيتي
+NOW_I_AM_THE_TEAM_LEADER,الآن، أنا في الصف الأمامي.
+WAIT_A_MOMENT,انتظر
+DICE_STARTED,%s تم تشغيل ٪ من النرد الوجه
+WHERE_ARE_THE_LOBBYISTS,أين أجد شيئاً؟
+SILENT_NOTE_DO,أي شيء صامت
+SILENT_NOTE_RE,ملاحظة صامتة (2)
+SILENT_NOTE_MI,ملاحظة صامتة (3)
+SILENT_NOTE_FA,ملاحظة صامتة (4)
+SILENT_NOTE_SOL,ملاحظات صامتة (5)
+SILENT_NOTE_LA,النوتة الصامتة
+SILENT_NOTE_SI,ملاحظة صوتية الغربية (7)
+NOTE_DO,عصا(1)
+NOTE_RE,تعال (2)
+NOTE_MI,مي (3)
+NOTE_FA,طلقة (4)
+NOTE_SOL,التحريض (5)
+NOTE_LA,آه (6)
+NOTE_SI,غرب (7)
+WIN_THE_KING,لقد ربحت الملك.
+KING_LOW_VOICE,صوت منخفض، %s،، لا تخبر الآخرين،،،
+WHEN_I_WAS_YOUNG,وقد استخدمت هذه الهدية الصغيرة بانتظام عندما كنت صغيرا، ولاحقا حصلت على التاج.
+ALL_GIFTS_HAD_GIVE_YOU,لقد أحضرت لك هديتي الصغيرة
+YOU_NEED_TO_PROVE,اثبتوا شجاعتك لكي تحصلوا على هدية صغيرة
+DOOR_1,. الجانب الجنوبي من (سايمون
+DOOR_2,عند البوابة الشرقية
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_26_1,تماسك
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_26_2,بعيد
+NOT_EASY_OPEN_THE_DOOR_WITHOUT_THE_KEY,الباب بدون المفتاح ليس من السهل فتحه.
+TRUSTED_CLASSMATE,لا بد لي من القول إنني أكثر ثقة في زميلتها في المدرسة المذكورة في دعوة الأميرة.
+YOU_HAD_THE_KEY,لديك بالفعل هذا المفتاح.
+PLAYCHESSSTARTWORDSKEY_AVATAR_26_3,الفضول هو الدافع للتقدم.
+VISUAL_RANGE_IS_AT_MAXIMUM,. المسافة إلى أقصى حد
+YOU_ALREADY_HAVE_A_TELESCOPE,لديك بالفعل تلسكوب.
+YOU_NEED_A_TELESCOPE_FIRST,يجب أن يكون لديك تلسكوب.
+YOU_ALREADY_HAVE_THIS_KEY,لديك بالفعل هذا المفتاح.
+HAVE_ALREADY_USED,بالفعل.
+DOOR_3,. لا، لا بأس -
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_28_1,قلعة قديمة.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_28_2,تاريخ طويل.
+WRANGLEDIALOGTYPEID_SISTER_1_SUCCESS_1,في مكتبي، عد إلى هناك وفحصها.
+FAMILY_IS_THE_MOST_IMPORTANT_THING,بالنسبة لي، العائلة هي الأهم.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_65_1,لا تدع الآخرين يرون ذلك.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_65_2,رسالة سرية
+TO_ROYAL_HOUSEHOLD_LETTER,الطاقم الملكي قبل كاي.
+DOOR_CLOSE,الباب مغلق.
+GUARD_THE_ROYAL_FAMILY,حراسة الملك.
+YOU_CAN_NOT_FOUND_QIU_YU,لن تجدوه.
+YOU_WILL_BE_SORRY,لا تجرؤ على تحدي لي، سوف تندم على ذلك.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_66_1,لا أستطيع الرؤية
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_66_2,انها مظلمة في الداخل.
+WE_LOOK_FORWARD_TO_LEARNING_PARTNERS,أتطلع إلى شريك متعلم.
+OWN_WONDERFUL,رغم ان الحياة محكوم عليها بالعيش، يجب ان تعيش حياتها الخاصة.
+WE_HAVE_FOUND_THE_TWELVE_GOO,لقد وجدنا اثنا عشر دودة لزجة هنا
+MEMBERS_OF_THE_TEAM_WHO_LEFT,أعضاء الفريق: %s.
+HOWEVER_SOME_MEMBERS_SURVIVED,ومع ذلك، نجا الفريق بعزيمة.
+HOME_SAFE_1,البيت هو ملاذ آمن.
+HOME_SAFE_2,البيت هو الملاذ الآمن لنا.
+HOME_IS_SAFE,لا تزال آمنة في المنزل،
+IT_IS_GETTING_DARK_YOU_CAN_NOT_PLAY_CHESS,سوف يحل الظلام، ليست لعبة.
+WAY_HOME_1,آمل أن تتذكر الطريق إلى المنزل.
+WAY_HOME_2,في هذه المرحلة، فإن العودة إلى المنزل هو الخيار الأسلم.
+IT_IS_GETTING_DARK_YOU_CAN_NOT_OPERATE,سيحل الظلام، لا يمكن تشغيلها.
+IT_IS_PLAY_CHESS_YOU_CAN_NOT_OPERATE,. لا أستطيع فعل هذا
+WILL_FINAL,ابحث عن قطتها
+TWELVE_BUGS,اثنا عشر لزجة
+THE_GAME_HAS_NOT_STARTED_YET,اللعبة لم تبدأ بعد.
+I_AM_GOING_TO_START_COUNTING,سأبدأ العد
+LOOK_WHERE_THEY_ARE,أنظر أين هم؟
+CURRENT_STANDING_POSITION_CANNOT_START_PATHFINDING,في موقعك الحالي، لا يمكنك البدء في البحث.
+THE_LAST_COUNT_IS_NOT_OVER,آخر عدد لم ينته بعد.
+WE_FINALLY_FOUND,لقد وجدنا أخيراً لم الشمل
+WE_WILL_TOGETHER,أنا دائما أؤمن أن أراكم مرة أخرى!
+I_CAN_NOT_HAVE_MY_LITTLE_GIFT_AGAIN,لقد أثبت شجاعتك.
+PICK_UP_OR_NOT,تلتقط؟
+ALREADY_MINIMUM,بالفعل أصغر.
+ALREADY_MAXIMUM,بالفعل أكبر.
+NEED_CHARGING_NUMBERING,. يجب أن نملأ هذه
+DOOR_NAME,الباب
+OPEN_DOOR_OR_NOT,أفتحها؟
+DOOR_OPENED,الباب مفتوح.
+CAN_NOT_DISCARD,لا يمكن رميها بعيدا.
+GIFT_OR_NOT,هدية؟
+NO_NUMBERINGROD,ل{GOODS_NAME_NUMBERINGROD}ا. 
+NUMBERING,رقم
+GUIDE_BOARD,علامات
+RADIO_CASSETTE_RECORDER,جهاز تسجيل
+DEAD_TREE,الميتة
+KUMQUAT,الذهب هناك
+PINE_TREE,أشجار الصنوبر
+FLOWERS,الزهور
+GRASS,العشب
+OSMANTHUS_FRAGRANS,جويهوا
+BANYAN,بانيان
+ARAUCARIA,نوبسوس
+FIR,"أشجار ""التنوب"""
+PLAY_MUSIC,لعب الموسيقى.
+NAME_PATHWAY,مسارات
+PATHWAY_DESCRIPTION,ممر مظلم إلى الأمام.
+START_COUNTING_OR_NOT,ابدأ العد؟

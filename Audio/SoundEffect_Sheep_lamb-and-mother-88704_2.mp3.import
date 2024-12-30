@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/SoundEffect_Sheep_lamb-and-mother-88704_2.mp3-e755c58d0fe3a8a396305635e18ed73d.mp3str"
+
+[deps]
+
+source_file="res://Audio/SoundEffect_Sheep_lamb-and-mother-88704_2.mp3"
+dest_files=[ "res://.import/SoundEffect_Sheep_lamb-and-mother-88704_2.mp3-e755c58d0fe3a8a396305635e18ed73d.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

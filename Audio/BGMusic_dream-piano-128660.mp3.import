@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/BGMusic_dream-piano-128660.mp3-7e11a1079eee9cbb46e92a9df5436942.mp3str"
+
+[deps]
+
+source_file="res://Audio/BGMusic_dream-piano-128660.mp3"
+dest_files=[ "res://.import/BGMusic_dream-piano-128660.mp3-7e11a1079eee9cbb46e92a9df5436942.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

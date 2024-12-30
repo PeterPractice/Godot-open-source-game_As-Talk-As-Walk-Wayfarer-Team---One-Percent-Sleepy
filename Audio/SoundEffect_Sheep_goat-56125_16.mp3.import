@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/SoundEffect_Sheep_goat-56125_16.mp3-482265be2a2b615dfc0784b72727237c.mp3str"
+
+[deps]
+
+source_file="res://Audio/SoundEffect_Sheep_goat-56125_16.mp3"
+dest_files=[ "res://.import/SoundEffect_Sheep_goat-56125_16.mp3-482265be2a2b615dfc0784b72727237c.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

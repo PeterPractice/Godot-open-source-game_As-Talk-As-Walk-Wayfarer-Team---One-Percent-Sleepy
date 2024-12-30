@@ -1,0 +1,140 @@
+[gd_scene load_steps=10 format=2]
+
+[ext_resource path="res://Script/Avatar/KinematicBody2DPlant.gd" type="Script" id=1]
+[ext_resource path="res://Picture/Scene/Holly1/Holly_2.png" type="Texture" id=2]
+[ext_resource path="res://Picture/Scene/Holly1/Holly_2_Mulch_2.png" type="Texture" id=3]
+[ext_resource path="res://Picture/Scene/Holly1/Holly_2_BG.png" type="Texture" id=4]
+
+[sub_resource type="ShaderMaterial" id=6]
+
+[sub_resource type="Animation" id=7]
+resource_name = "beEatenToLeft"
+length = 2.0
+loop = true
+tracks/0/type = "value"
+tracks/0/path = NodePath("spriteBeEatenToLeft:scale")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0, 1 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 0,
+"values": [ Vector2( 1, 1 ), Vector2( 1, 0.9 ) ]
+}
+
+[sub_resource type="Animation" id=8]
+resource_name = "swayToLeft"
+length = 4.0
+loop = true
+tracks/0/type = "value"
+tracks/0/path = NodePath("spriteSwayToLeft:rotation_degrees")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0, 1, 3 ),
+"transitions": PoolRealArray( 1, 1, 1 ),
+"update": 0,
+"values": [ 0.0, 10.0, -10.0 ]
+}
+
+[sub_resource type="Animation" id=10]
+resource_name = "swayToRight"
+length = 4.0
+loop = true
+tracks/0/type = "value"
+tracks/0/path = NodePath("spriteSwayToLeft:rotation_degrees")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0, 1, 3 ),
+"transitions": PoolRealArray( 1, 1, 1 ),
+"update": 0,
+"values": [ 0.0, -10.0, 10.0 ]
+}
+
+[sub_resource type="CapsuleShape2D" id=9]
+
+[node name="KinematicBody2DPlant" type="KinematicBody2D"]
+collision_layer = 16
+collision_mask = 0
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="textureRectBG" type="TextureRect" parent="."]
+margin_right = 40.0
+margin_bottom = 40.0
+mouse_filter = 2
+texture = ExtResource( 4 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="spriteIdleToLeft" type="Sprite" parent="."]
+material = SubResource( 6 )
+texture = ExtResource( 2 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="spriteBeEatenToLeft" type="Sprite" parent="."]
+material = SubResource( 6 )
+texture = ExtResource( 2 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="spriteSwayToLeft" type="Sprite" parent="."]
+material = SubResource( 6 )
+texture = ExtResource( 2 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="textureRectMulch" type="TextureRect" parent="."]
+margin_left = -19.0
+margin_top = 22.0
+margin_right = 20.0
+margin_bottom = 34.0
+mouse_filter = 2
+texture = ExtResource( 3 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="animationPlayer1" type="AnimationPlayer" parent="."]
+anims/beEatenToLeft = SubResource( 7 )
+anims/swayToLeft = SubResource( 8 )
+anims/swayToRight = SubResource( 10 )
+
+[node name="area2DMouse" type="Area2D" parent="."]
+collision_layer = 16
+collision_mask = 10
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="collisionShape2D2" type="CollisionShape2D" parent="area2DMouse"]
+shape = SubResource( 9 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="visibilityNotifier2DScreen" type="VisibilityNotifier2D" parent="."]
+rect = Rect2( 0, 0, 1, 1 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[connection signal="area_entered" from="area2DMouse" to="." method="_on_area2D1_area_entered"]
+[connection signal="area_exited" from="area2DMouse" to="." method="_on_area2D1_area_exited"]
+[connection signal="input_event" from="area2DMouse" to="." method="_on_area2D1_input_event"]
+[connection signal="mouse_entered" from="area2DMouse" to="." method="_on_area2D1_mouse_entered"]
+[connection signal="mouse_exited" from="area2DMouse" to="." method="_on_area2D1_mouse_exited"]

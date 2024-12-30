@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/SoundEffect_Whoosh_2.mp3-999e96cb489871b73b7da6bc5a771bbf.mp3str"
+
+[deps]
+
+source_file="res://Audio/SoundEffect_Whoosh_2.mp3"
+dest_files=[ "res://.import/SoundEffect_Whoosh_2.mp3-999e96cb489871b73b7da6bc5a771bbf.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

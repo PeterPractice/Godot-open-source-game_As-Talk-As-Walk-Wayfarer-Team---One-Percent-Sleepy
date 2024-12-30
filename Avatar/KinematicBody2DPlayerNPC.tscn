@@ -1,0 +1,165 @@
+[gd_scene load_steps=18 format=2]
+
+[ext_resource path="res://Script/Avatar/KinematicBody2DPlayerNPC.gd" type="Script" id=1]
+[ext_resource path="res://Picture/Avatar/Snake1/Snake1_Attack1_1.png" type="Texture" id=2]
+[ext_resource path="res://Picture/Avatar/Snake1/Snake1_Talk_1.png" type="Texture" id=3]
+[ext_resource path="res://Picture/Avatar/Snake1/Snake1_Idle1_1.png" type="Texture" id=4]
+[ext_resource path="res://Picture/Avatar/Snake1/Snake1_Walk_1.png" type="Texture" id=5]
+[ext_resource path="res://Script/Avatar/Area2DInteraction.gd" type="Script" id=6]
+[ext_resource path="res://Picture/Avatar/Equip/NumberingRod/NumberingRod2.png" type="Texture" id=7]
+
+[sub_resource type="ShaderMaterial" id=6]
+
+[sub_resource type="ShaderMaterial" id=7]
+
+[sub_resource type="ShaderMaterial" id=8]
+
+[sub_resource type="ShaderMaterial" id=9]
+
+[sub_resource type="Animation" id=1]
+resource_name = "attackToLeft"
+tracks/0/type = "value"
+tracks/0/path = NodePath("spriteAttackToLeft:frame")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0 ),
+"transitions": PoolRealArray( 1 ),
+"update": 1,
+"values": [ 0 ]
+}
+
+[sub_resource type="Animation" id=3]
+length = 0.5
+tracks/0/type = "value"
+tracks/0/path = NodePath("spriteTalkToLeft:frame")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0, 0.1 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 1,
+"values": [ 0, 1 ]
+}
+
+[sub_resource type="Animation" id=4]
+length = 0.2
+tracks/0/type = "value"
+tracks/0/path = NodePath("spriteWalkToLeft:frame")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0, 0.1 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 1,
+"values": [ 0, 1 ]
+}
+
+[sub_resource type="CapsuleShape2D" id=12]
+
+[sub_resource type="CapsuleShape2D" id=10]
+radius = 18.0
+height = 28.0
+
+[sub_resource type="CapsuleShape2D" id=11]
+height = 10.0
+
+[node name="KinematicBody2DPlayerNPC" type="KinematicBody2D"]
+collision_layer = 2
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="spriteIdleToLeft" type="Sprite" parent="."]
+material = SubResource( 6 )
+texture = ExtResource( 4 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="spriteWalkToLeft" type="Sprite" parent="."]
+material = SubResource( 7 )
+texture = ExtResource( 5 )
+hframes = 2
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="spriteTalkToLeft" type="Sprite" parent="."]
+material = SubResource( 8 )
+texture = ExtResource( 3 )
+hframes = 2
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="spriteAttackToLeft" type="Sprite" parent="."]
+material = SubResource( 9 )
+texture = ExtResource( 2 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="spriteAttackEquip" type="Sprite" parent="spriteAttackToLeft"]
+texture = ExtResource( 7 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="node2DEquip_Head" type="Node2D" parent="."]
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="animationPlayer1" type="AnimationPlayer" parent="."]
+anims/attackToLeft = SubResource( 1 )
+anims/talkToLeft = SubResource( 3 )
+anims/walkToLeft = SubResource( 4 )
+
+[node name="collisionShape2D1" type="CollisionShape2D" parent="."]
+shape = SubResource( 12 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="area2DInteraction" type="Area2D" parent="."]
+collision_layer = 2
+collision_mask = 20
+script = ExtResource( 6 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="collisionShape2D2" type="CollisionShape2D" parent="area2DInteraction"]
+shape = SubResource( 10 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="area2DAttack" type="Area2D" parent="."]
+collision_layer = 2
+collision_mask = 8
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="collisionShape2D3" type="CollisionShape2D" parent="area2DAttack"]
+visible = false
+shape = SubResource( 11 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[connection signal="animation_finished" from="animationPlayer1" to="." method="_on_animationPlayer1_animation_finished"]
+[connection signal="input_event" from="area2DInteraction" to="." method="_on_area2D1_input_event"]
+[connection signal="mouse_entered" from="area2DInteraction" to="." method="_on_area2D1_mouse_entered"]
+[connection signal="mouse_exited" from="area2DInteraction" to="." method="_on_area2D1_mouse_exited"]
+[connection signal="area_entered" from="area2DAttack" to="." method="_on_area2DAttack_area_entered"]
+[connection signal="area_exited" from="area2DAttack" to="." method="_on_area2DAttack_area_exited"]

@@ -1,0 +1,70 @@
+[gd_scene load_steps=5 format=2]
+
+[ext_resource path="res://Script/Scene/Trigger/SpawnSheep.gd" type="Script" id=1]
+[ext_resource path="res://Picture/Scene/ChangeSceneTrigger1/ChangeSceneTrigger1.png" type="Texture" id=2]
+
+[sub_resource type="Animation" id=2]
+resource_name = "flauntLeft"
+length = 20.0
+loop = true
+step = 0.5
+tracks/0/type = "value"
+tracks/0/path = NodePath("sprite1:rotation_degrees")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0, 10 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 0,
+"values": [ 0.0, -360.0 ]
+}
+
+[sub_resource type="Animation" id=1]
+resource_name = "flauntRight"
+length = 20.0
+loop = true
+step = 0.5
+tracks/0/type = "value"
+tracks/0/path = NodePath("sprite1:rotation_degrees")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0, 10 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 0,
+"values": [ 0.0, 360.0 ]
+}
+
+[node name="SpawnSheep" type="Node2D"]
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="colorRect1" type="ColorRect" parent="."]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = -32.0
+margin_top = -64.0
+margin_right = 32.0
+color = Color( 0.490196, 0, 0.490196, 1 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="sprite1" type="Sprite" parent="."]
+position = Vector2( 0, -32 )
+texture = ExtResource( 2 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="animationPlayer1" type="AnimationPlayer" parent="."]
+anims/flauntLeft = SubResource( 2 )
+anims/flauntRight = SubResource( 1 )

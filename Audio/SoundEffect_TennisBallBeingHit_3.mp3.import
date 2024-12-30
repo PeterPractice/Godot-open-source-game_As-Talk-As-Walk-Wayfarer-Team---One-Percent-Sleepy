@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/SoundEffect_TennisBallBeingHit_3.mp3-9bdf01ad7dbff1fd70e5bc025ffcbaea.mp3str"
+
+[deps]
+
+source_file="res://Audio/SoundEffect_TennisBallBeingHit_3.mp3"
+dest_files=[ "res://.import/SoundEffect_TennisBallBeingHit_3.mp3-9bdf01ad7dbff1fd70e5bc025ffcbaea.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

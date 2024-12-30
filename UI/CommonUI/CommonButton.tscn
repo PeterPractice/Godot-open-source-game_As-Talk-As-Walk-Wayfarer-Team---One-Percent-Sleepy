@@ -1,0 +1,36 @@
+[gd_scene load_steps=4 format=2]
+
+[ext_resource path="res://Font/Font.tres" type="DynamicFont" id=1]
+[ext_resource path="res://Script/UI/CommonUI/CommonButton.gd" type="Script" id=2]
+[ext_resource path="res://UI/CommonUI/CommonLabel13.tscn" type="PackedScene" id=3]
+
+[node name="CommonButton" type="Button"]
+margin_right = 12.0
+margin_bottom = 20.0
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+custom_fonts/font = ExtResource( 1 )
+script = ExtResource( 2 )
+__meta__ = {
+"_edit_lock_": true,
+"_edit_use_anchors_": false
+}
+
+[node name="commonLabelLeft" parent="." instance=ExtResource( 3 )]
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_left = 5.0
+margin_top = -19.0
+margin_right = 5.0
+margin_bottom = 0.0
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="colorRectPressed" type="ColorRect" parent="."]
+visible = false
+anchor_right = 1.0
+anchor_bottom = 1.0
+__meta__ = {
+"_edit_lock_": true
+}

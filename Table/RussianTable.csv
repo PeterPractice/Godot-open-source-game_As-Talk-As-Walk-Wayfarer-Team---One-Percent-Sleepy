@@ -1,0 +1,487 @@
+stringKey,stringContent
+NAME_GAME_NAME,Путешественники - Одна сотая сонная
+NAME_1,Страна удовольствия
+NAME_2,Аман
+NAME_2_EYE,Глаз Аман
+NAME_AVATAR_1,Молния - 1
+NAME_AVATAR_2,Военная дивизия
+NAME_AVATAR_3,Чэнь Сяомин
+NAME_AVATAR_4,Белый Дин
+NAME_AVATAR_5,Ветер
+NAME_AVATAR_6,Молния - 2
+NAME_AVATAR_7,Молния - 3
+NAME_AVATAR_8,Ли Кришная шея
+NAME_AVATAR_9,Богиня солнца
+NAME_AVATAR_10,Склеивание
+NAME_AVATAR_11,липкий
+NAME_AVATAR_12,Склеить
+NAME_AVATAR_13,Липкая любовь
+NAME_AVATAR_14,Привязка
+NAME_AVATAR_15,Клянусь.
+NAME_AVATAR_16,Не липкий.
+NAME_AVATAR_17,Липкий
+NAME_AVATAR_18,Западное тепло
+NAME_AVATAR_19,Сестра принцессы
+NAME_AVATAR_19_2,Цю 
+NAME_AVATAR_20,Серебряный дракон
+NAME_AVATAR_21,Липкий.
+NAME_AVATAR_22,липкий год
+NAME_AVATAR_23,Липкий ремонт
+NAME_AVATAR_24,Склеить
+NAME_AVATAR_25,Дон Кинг
+NAME_AVATAR_26,"Иди сюда, королева."
+NAME_AVATAR_27,Сестра принцессы Мицуи.
+NAME_AVATAR_28,Домработница.
+NAME_AVATAR_29,"Эй, экономка."
+NAME_AVATAR_30,Рюкзак
+NAME_AVATAR_31,Блокнот
+NAME_AVATAR_32,Письмо {NAME_AVATAR_19}
+NAME_AVATAR_33,Общество трех драконов
+NAME_AVATAR_34,Письмо {NAME_AVATAR_33}
+NAME_AVATAR_35,Ким Чи Тонг
+NAME_AVATAR_36,Тайдао
+NAME_AVATAR_SHEEP,Овцы
+NAME_AVATAR_HOLLY,Холли
+GOODS_NAME_1,Брезентовые сапоги
+GOODS_NAME_2,Телескоп
+GOODS_NAME_3,Парик.
+GOODS_NAME_4,Парик.
+GOODS_NAME_5,Парик.
+GOODS_NAME_6,Парик.
+GOODS_NAME_7,Длинные парики
+GOODS_NAME_8,Длинные парики
+GOODS_NAME_9,Длинные парики
+GOODS_NAME_10,Длинные парики
+GOODS_NAME_11,Цветной парик
+GOODS_NAME_HOUSEKEEPERKEY,Ключ {NAME_AVATAR_28}
+GOODS_NAME_BUTLERKEY,Ключ {NAME_AVATAR_29}
+GOODS_NAME_QUEENKEY,Ключ {NAME_AVATAR_26}
+GOODS_NAME_NUMBERINGROD,Номерный стержень
+GOODS_DESCRIPTION_1,С этими туфлями можно ходить автоматически.
+GOODS_DESCRIPTION_2,"Смотреть дальше, особенно там, где плохо освещено."
+GOODS_DESCRIPTION_3,{JOB_LOBBYIST}.
+GOODS_DESCRIPTION_4,{JOB_LOBBYIST}.
+GOODS_DESCRIPTION_5,{JOB_LOBBYIST}.
+GOODS_DESCRIPTION_6,{JOB_LOBBYIST}.
+GOODS_DESCRIPTION_7,{JOB_LOBBYIST}.
+GOODS_DESCRIPTION_8,{JOB_LOBBYIST}.
+GOODS_DESCRIPTION_9,{JOB_LOBBYIST}.
+GOODS_DESCRIPTION_10,{JOB_LOBBYIST}.
+GOODS_DESCRIPTION_11,"Рюкзак может нести много предметов, приключений, необходимых инструментов для похода."
+GOODS_DESCRIPTION_12,"Запись того, что видел, слышал, встречал, чувствовал по пути."
+GOODS_DESCRIPTION_18,{JOB_LOBBYIST}.  Изготовлено из специальных материалов.
+GOODS_DESCRIPTION_HOUSEKEEPERKEY,При переноске можно открыть {DOOR_1}.
+GOODS_DESCRIPTION_BUTLERKEY,При переноске можно открыть {DOOR_2}.
+GOODS_DESCRIPTION_QUEENKEY,При переноске можно открыть дверь {SCENE_NAME_HALL_OF_MELODY}.
+GOODS_DESCRIPTION_NUMBERINGROD,Сфотографировать номер.
+GOODS_IN_USE,В процессе использования.
+GOODS_UNUSED,Не используется.
+GOODS_TELESCOPE_VISUALFIELDDISTANCE,Расстояние обзора:%s.
+GOODS_TELESCOPE_VISUALFIELDSHARPTYPE,Форма поля зрения:%s.
+GOODS_TELESCOPE_VISUALFIELDSHARPTYPE_RHOMBUS,ромб
+GOODS_TELESCOPE_VISUALFIELDSHARPTYPE_EGG,Яйцо
+GOODS_TELESCOPE_VISUALFIELDDISTANCE2,Расстояние обзора:%s (+%s).
+JOB_LOBBYIST,Лоббист.
+PLAY_CHESS_NAME,Игра
+PLAY_CHESS_POINTS,Количество баллов {PLAY_CHESS_NAME}
+SCENE_NAME_1_HOME,{NAME_AVATAR_1} Домой
+SCENE_NAME_3_HOME,Дом {NAME_AVATAR_3}
+SCENE_NAME_4_HOME,Дом {NAME_AVATAR_4}
+SCENE_NAME_3_HOME_COURTYARD,{NAME_AVATAR_3} Двор дома
+SCENE_NAME_CHORD_SQUARE,Площадь аккордов
+SCENE_NAME_STAVE_AVENUE,Пятистраничный бульвар
+SCENE_NAME_HALL_OF_MELODY,Дом мелодий
+SCENE_NAME_CLINKER_VALLEY,Пропущенный каньон
+SCENE_NAME_CRACKING_VOICE_RIDGE,Сломанный хребет
+SCENE_NAME_GRASSLAND,стадион
+NPCARTICLETRIGGER_NAME_1,{NAME_AVATAR_1} Дверь дома
+NPCARTICLETRIGGER_NAME_2,{NAME_AVATAR_3} Дверь дома
+NPCARTICLETRIGGER_NAME_3,{NAME_AVATAR_4} Дверь дома
+STARTGAMEPANEL_TITLELABEL38GAMETITLE,{NAME_GAME_NAME}
+STARTGAMEPANEL_COMMONLABELVERSION,Version %s
+STARTGAMEPANEL_COMMONBUTTON31LOADGAME,Загрузить игру
+STARTGAMEPANEL_STARTGAME,Начать игру
+STARTGAMEPANEL_CONTINUEGAME,Продолжить игру
+STARTGAMEPANEL_COMMONBUTTON31OPTION,Параметры
+STARTGAMEPANEL_COMMONBUTTON31EXITGAME,Выйти из игры
+STARTGAMEPANEL_COMMONLABELARCHIVE,Архив
+STARTGAMEPANEL_ARCHIVE_NEW_GAME,Новая игра
+STARTGAMEPANEL_ARCHIVE_CLEAR,Удалить
+STARTGAMEPANEL_ARCHIVE_CLEAR_DOUBLE_CONFIRMATION,Удалить архив%s Подтверждено дважды
+PANEL_BUTTON_OK,Определение
+PANEL_BUTTON_CANCEL,Отменить
+PANEL_BUTTON_CLOSE,Закрыть
+PANEL_BUTTON_YES,Да
+PANEL_BUTTON_NO,Нет
+OPTIONPANEL_COMMONLABEL31TITLE,Интерфейс параметров
+OPTIONPANEL_COMMONBUTTONLANGUAGE,Выбор языка (Language)
+OPTIONPANEL_COMMONLABELVIDEORESOLUTIONRATIO,изображен:
+OPTIONPANEL_COMMONLABELFULLSCREEN,полноэкра:
+OPTIONPANEL_COMMONLABELWINDOWSTRETCH,растягива:
+OPTIONPANEL_COMMONLABELMUSIC,Музыка:
+OPTIONPANEL_COMMONLABELSOUNDEFFECT,Звуковые эффекты:
+OPTIONPANEL_COMMONLABELVIDEORESOLUTIONRATIO_2,1280х720
+OPTIONPANEL_COMMONLABELVIDEORESOLUTIONRATIO_3,1920х1080
+OPTIONPANEL_SCREEN_RESOLUTION,Разрешение экрана
+OPTIONPANEL_COMMONLABELLANGUAGE,Язык:
+OPTIONPANEL_COMMONBUTTONDEFAULT,По умолчанию
+OPTIONPANEL_COMMONBUTTONRETURNTOHUBSCENE,Возвращайся в холл.
+OPTIONPANEL_COMMONBUTTONEXITGAME,Выйти из игры
+OPTIONPANEL_COMMONBUTTONRETURNTOGAME,Вернуться к игре
+OPTIONPANEL_GENERAL,Общий
+OPTIONPANEL_KEYBOARD,Клавиши
+OPTIONPANEL_KEYBOARD_MOVE,Переместить:
+OPTIONPANEL_KEYBOARD_MOVE_CONTENT,ADSW (or ←→↓↑)
+OPTIONPANEL_KEYBOARD_INTERACTION_TALK,{DOWNPANEL_INTERACTION}:
+OPTIONPANEL_KEYBOARD_INTERACTION_TALK_CONTENT,Е
+OPTIONPANEL_KEYBOARD_WAVE,Помахивание:
+OPTIONPANEL_KEYBOARD_WAVE_CONTENT,Enter (или Космос)
+OPTIONPANEL_KEYBOARD_BAG,Рюкзак:
+OPTIONPANEL_KEYBOARD_BAG_CONTENT,Б
+OPTIONPANEL_KEYBOARD_OPTIONS_SCREEN,Интерфейс опций:
+OPTIONPANEL_KEYBOARD_OPTIONS_SCREEN_CONTENT,О
+OPTIONPANEL_KEYBOARD_YES,Да:
+OPTIONPANEL_KEYBOARD_YES_CONTENT,Y
+OPTIONPANEL_KEYBOARD_NO,Нет:
+OPTIONPANEL_KEYBOARD_NO_CONTENT,N
+OPTIONPANEL_ABOUT,О
+OPTIONPANEL_ABOUT_NAME_OF_THE_GAME,Название игры: {NAME_GAME_NAME}.
+OPTIONPANEL_ABOUT_VERSION,Версия:%s.
+OPTIONPANEL_ABOUT_COPYRIGHT_AND_DEVELOPMENT,Описание:%s.
+OPTIONPANEL_ABOUT_CONTACT,Связь:%s.
+OPTIONPANEL_ABOUT_CONTACT_COPY,Копирование
+OPTIONPANEL_ABOUT_THANKS,"Спасибо: спасибо моей семье, без их поддержки не было бы этой игры."
+LANGUAGEPANEL_COMMONLABEL31TITLE,Выбор языка
+TIME_YEAR,Год
+TIME_MONTH,Месяц
+TIME_DAY,День
+TIME_HOUR,Время
+TIME_MINUTE,Б
+TIME_SECOND,Секунда
+BOOTSCENE_STARTING_STRING1,Запуск
+BOOTSCENE_STARTING_STRING2,Запускается.
+BOOTSCENE_STARTING_STRING3,Запуск...
+BOOTSCENE_STARTING_STRING4,Запуск...
+DAYNIGHTPANEL_COMMONLABELDAYSNUMBER,Количество дней%s
+DAYNIGHTPANEL_FIRSTSTARTNIGHT,Уже стемнеет.
+CURRENTSCENESHOWNAME_ENTER,Вход%s.
+DOWNPANEL_INTERACTION,беседовать
+DOWNPANEL_CONTROLBAGUSE_COMMONBUTTON13BAGUSE,Использование
+DOWNPANEL_CONTROLBAGUSE_COMMONBUTTON13DISCARD,Выбросить
+DOWNPANEL_WRANGLEDIALOG_ASK_DISCARD,Выбросить?
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_1,"Сгорел пепел, после того как увидел."
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_2,Очищены.
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_3,Чисто.
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_4,Пустой.
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_5,Пусто.
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_6,Пусто.
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_7,"Пустота, пустота, пустота."
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_8,"Пусто, пусто, пусто, пусто."
+IN_CD,Охлаждается.
+AVATAR_CAN_NOT_MOVE,Не могу пошевелиться.
+AVATAR_HAD_EQUIP,Уже носят:%s.
+AVATAR_HAD_EQUIP2,Уже носят.
+CHESSPANEL1_PLAYCHESS_START,{PLAY_CHESS_NAME} Начало
+CHESSPANEL1_PLAYCHESS_SUCCESS,{PLAY_CHESS_NAME} Успешно
+CHESSPANEL1_PLAYCHESS_FAILURE,Сбой {PLAY_CHESS_NAME}
+CHESSPANEL1_COMMONBUTTONCONTINUE,Продолжай.
+CHESSPANEL1_MOUSECLICKCONTINUE,(Щелкните левой кнопкой мыши в любом месте для продолжения)
+CHESSPANEL1_POINTS,Количество очков в игре%s:%s.
+SLOGAN_NEW_DAY_1,Начинается новый день.
+SLOGAN_NEW_DAY_2,Начинается день приключений.
+SLOGAN_NEW_DAY_3,Новый день.
+SLOGAN_NEW_DAY_4,День приключений.
+SLOGAN_NEW_DAY_5,Дорога далека.
+SLOGAN_NEW_DAY_6,"Дорога далекая, готовьтесь к отъезду."
+SLOGAN_NEW_DAY_7,Приготовьтесь к отъезду.
+SLOGAN_NEW_DAY_8,Отъезд.
+SLOGAN_AVATAR_DEAD_1,"Ночь поглотила людей, которые не боялись темноты."
+SLOGAN_AVATAR_DEAD_2,"Когда стемнело, тебя поглотила ночь."
+NAVIGATIONMANAGER_NOT_VALID_PATH_END_POSITION,Неверный пункт назначения.
+NAVIGATIONMANAGER_END_OBSTRUCTIONS_NEARBY,"Остановите автоматический поиск дороги, поблизости есть препятствия."
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_1,Один ботинок означает пару ботинок?
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_2,Левая и правая ноги - это обувь.
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_3,Где батарейки?
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_4,Переключателя не найдено.
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_5,Где выключатель?
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_6,Уже оделась.
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_7,Автоматически можно найти дорогу.
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_8,На этот раз не заблудится.
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_9,Куда мы идем?
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_10,Я хочу куда - то пойти.
+GOODSUSEFUNCTION_PUTONEQUIP_TELESCOPE_1,Смотреть дальше.
+GOODSUSEFUNCTION_PUTONEQUIP_TELESCOPE_2,Горизонт лучше.
+GOODSADDFUNCTION_TELESCOPE_1,"Новые навыки, ясновидящий."
+GOODSADDFUNCTION_TELESCOPE_2,"Не считая тысячелетнего глаза, десять метров определенно есть."
+GOODSREMOVEFUNCTION_TELESCOPE_1,Дальше смотреть нельзя.
+GOODSREMOVEFUNCTION_TELESCOPE_2,Носить неудобно?
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_1,Блестяще.
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_2,Яркий.
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_3,Нефритовые деревья на ветру.
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_4,Подними грудь вверх.
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_5,Профессиональная подготовка.
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_6,"Человек опирается на волосы, а лошадь - на седло."
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_7,Возможно повышение интеллекта.
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_8,Интеллектуальность + 1.
+GOODSADDFUNCTION_WIG_1,Хорошие вещи.
+GOODSADDFUNCTION_WIG_2,Наконец - то нашли.
+GOODSADDFUNCTION_WIG_3,Неплохо.
+GOODSADDFUNCTION_WIG_OTHER_1,Парик?
+GOODSADDFUNCTION_WIG_OTHER_2,Парик следует носить {JOB_LOBBYIST}.
+GOODSADDFUNCTION_WIG_OTHER_3,Парик {JOB_LOBBYIST}?
+GOODSREMOVEFUNCTION_WIG_1,Интеллектуальность - 1.
+GOODSREMOVEFUNCTION_WIG_2,Голова холодная.
+GOODSREMOVEFUNCTION_WIG_3,Чувствую себя непрофессионально.
+GOODSREMOVEFUNCTION_WIG_4,Ощущается снижение интеллекта.
+GOODSREMOVEFUNCTION_WIG_5,Огненный парик - это как обугленные волосы.
+GOODSREMOVEFUNCTION_WIG_6,Выбросить парик не жалко.
+GOODSREMOVEFUNCTION_WIG_7,Он не носит парик профессионально.
+GOODSREMOVEFUNCTION_WIG_8,Профессионалы не могут полагаться на парики.
+GOODSADDFUNCTION_FOOT_1,"Теперь я знаю, как идти."
+GOODSADDFUNCTION_FOOT_2,Такие высокие туфли?  Навигация возможна?
+GOODSADDFUNCTION_FOOT_3,Эта обувь нуждается в электричестве для навигации?
+GOODSADDFUNCTION_FOOT_4,Выбросить обувь для навигации?
+GOODSADDFUNCTION_FOOT_5,"Как ходить, в обуви знать."
+GOODSREMOVEFUNCTION_FOOT_1,Голые ноги.
+GOODSREMOVEFUNCTION_FOOT_2,Навигация невозможна.
+GOODSREMOVEFUNCTION_FOOT_3,"Выброшенная обувь просто исчезает;  Потерянная навигация, шаг за шагом иди сам."
+CANNOT_WEAR_IT_LOBBYIST_WIG_1,Не может носить специальный парик {JOB_LOBBYIST}.
+CANNOT_WEAR_IT_LOBBYIST_WIG_2,Это парик для {JOB_LOBBYIST}.
+BAG_IS_FULL,"Рюкзак заполнен, больше вещей нельзя брать с собой."
+BAG_ADD,Приобретено:%s.
+BAG_REMOVE,Выбросить:%s.
+BAG_USE,Использование:%s.
+TOP_BUTTON,Кнопка сверху
+BOTTOM_BUTTON,Нижняя кнопка
+CLEAR_BUTTON,Кнопка очистки
+AVATAR_DESCRIPTION_1,"Я змея, сильная змея.  Из трех братьев я самый большой."
+AVATAR_DESCRIPTION_2,"Я буду бегать, как облака небесные, и дождь будет сопровождать меня."
+AVATAR_DESCRIPTION_3,"Я начал изучать классическую литературу, музыку и живопись."
+AVATAR_DESCRIPTION_4,"Адвокаты, футболисты, и мой парик."
+AVATAR_DESCRIPTION_8,"Я бизнесмен, и честная торговля - мое кредо."
+AVATAR_DESCRIPTION_6,"Я змея, сильная змея, змея в доспехах.  Я был вторым из трех братьев."
+AVATAR_DESCRIPTION_7,"Я змея, сильная змея, змея в доспехах и механических руках.  Я был третьим из трех братьев."
+AVATAR_DESCRIPTION_5,Скорость - это главное.  Мои ученики очень сильные.  Я искал издалека.
+AVATAR_DESCRIPTION_9,"Если нужно, можешь поговорить со мной о сердце.  Моя собака часто бегает, видишь?"
+AVATAR_DESCRIPTION_10,"Мы не вредители, плавающие на нас."
+AVATAR_DESCRIPTION_11,"Мы не вредители, мы живы."
+AVATAR_DESCRIPTION_12,"Мы не вредители, мы идеальны для нас."
+AVATAR_DESCRIPTION_13,"Мы не вредители, а любовь как мы."
+AVATAR_DESCRIPTION_14,"Мы не вредители, ветровое пальто очень теплое."
+AVATAR_DESCRIPTION_15,"Мы не вредители, угон - это опыт."
+AVATAR_DESCRIPTION_16,"Мы не вредители, не смотрим в будущее, рождаемся спонтанно."
+AVATAR_DESCRIPTION_17,"Мы не вредители, жалость, это отношение."
+AVATAR_DESCRIPTION_18,"Я буду, как звезды на небесах, мир вертикальный и горизонтальный,"
+AVATAR_DESCRIPTION_19,"Принцесса - не профессия одного человека, и у нее много хороших друзей."
+AVATAR_DESCRIPTION_20,Эта операция должна проводиться тайно и не должна быть раскрыта.
+AVATAR_DESCRIPTION_21,"Мы не вредители, мы все выбираем."
+AVATAR_DESCRIPTION_22,"Мы не вредители, мы молоды и многообещающие."
+AVATAR_DESCRIPTION_23,"Мы не вредители, Хью, это жизнь."
+AVATAR_DESCRIPTION_24,"Мы не вредители, для того, чтобы быть, жизнь, но и отношение."
+AVATAR_DESCRIPTION_25,"Я король, {NAME_1} Добро пожаловать."
+AVATAR_DESCRIPTION_26,"Я королева, {NAME_1} Добро пожаловать."
+AVATAR_DESCRIPTION_27,"Я великая принцесса, и трон мой."
+AVATAR_DESCRIPTION_28,"Ты, должно быть, проголодался. Хочешь чего - нибудь?  Скажи мне."
+AVATAR_DESCRIPTION_29,"Служение - моя цель.  Моя шляпа очень красивая, и мне не нужны эти парики."
+ADDAVATARFROMSCENE_ADD_TEAM_MEMBERS,Команда добавляет новых членов:%s.
+TEAM_MEMBERS_REPEATEDLY,Невозможно повторно добавлять членов команды:%s.
+MAXIMUM_OF_AVATAR,Команда максимум%s человек.
+TIPS_STRING_AND_FLAG,"А,"
+NO_JOURNALRECORDBOOK,Нет {NAME_AVATAR_3}.
+NO_BAG,Нет {NAME_AVATAR_30}.
+SCENE_CONTENT_1_HOME,В доме есть мощная сила.
+SCENE_CONTENT_3_HOME,"В доме есть стол, а на столе - {NAME_AVATAR_31}."
+SCENE_CONTENT_4_HOME,В доме есть кровать {NAME_AVATAR_30}.
+SCENE_CONTENT_3_HOME_COURTYARD,Во дворе дома есть {NAME_AVATAR_2}.
+SCENE_CONTENT_CHORD_SQUARE,Дети часто собираются здесь.
+SCENE_CONTENT_STAVE_AVENUE,"Путь к неизвестному фронту.  Говорят, что здесь несколько троп."
+SCENE_CONTENT_HALL_OF_MELODY,"Это дворец {NAME_1}, где много комнат."
+SCENE_CONTENT_CLINKER_VALLEY,"Ссылки, где можно найти кого - то, кого вы ищете."
+SCENE_CONTENT_CRACKING_VOICE_RIDGE,"Пустынные горы и хребты, густые джунгли."
+SCENE_CONTENT_PLAY_CHESS,"Лучше, чем там, где пробовали, удача с тобой."
+PLANET_47,Планета 47
+PLAYCHESSSUCCESSFUNCTION_AVATAR_9_STRING,Успех никогда не бывает легким.
+PLAYCHESSFAILUREFUNCTION_AVATAR_9_STRING,Неудачи не длятся вечно.
+I_LIKE_LOBBYIST,"Мне нравятся люди, которые умеют говорить."
+IS_DOG1,"Любит бесцеремонно бегать, ветер и дождь в сопровождении, дорогой маленький партнер, это ты?"
+YOU_ARE_A_TALL_FELLOW,Ты - высокий человек!
+WINS_AND_LOSSES_ARE_COMMON_1,Победа или поражение - обычное дело.
+WINS_AND_LOSSES_ARE_COMMON_2,Скорость - это главное.
+WINS_AND_LOSSES_ARE_COMMON_3,Мои ученики очень сильные.
+WINS_AND_LOSSES_ARE_COMMON_4,Я искал издалека.
+I_DONOT_HAVE_MY_BEST_FRIEND_HERE,Я пойду с моим лучшим маленьким партнером.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_1_1,Открой.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_1_2,Открой.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_2_1,Знание - это сила.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_2_2,Записи содержат жизнь.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_3_1,Изолировать целый мир.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_3_2,Сохранить спокойствие.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_9_1,Сломанные туфли никуда не денутся.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_9_2,Получится без труда.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_10_1,Письмо от одноклассников.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_10_2,Письмо от друга.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_11_1,Молчание.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_11_2,Тишина.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_11_3,Повторение - это волшебство победы.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_11_4,Есть секрет делать вещи.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_11_5,Желание быстро не достигается.
+PLAYCHESSFAILUREFUNCTION_NPCARTICLE_ODETOJOY,"Я Хранитель {NAME_1}, верный страж короля."
+PLAYCHESSSTARTWORDSKEY_AVATAR_1_1,Победа.
+PLAYCHESSSTARTWORDSKEY_AVATAR_1_2,Должен выиграть.
+PLAYCHESSSTARTWORDSKEY_AVATAR_2_1,Удача должна коснуться.
+PLAYCHESSSTARTWORDSKEY_AVATAR_2_2,Удача тоже должна коснуться.
+PLAYCHESSSTARTWORDSKEY_AVATAR_3_1,Я уже подсчитал вероятность победы.
+PLAYCHESSSTARTWORDSKEY_AVATAR_3_2,Это также возможность учиться.
+PLAYCHESSSTARTWORDSKEY_AVATAR_4_1,Хорошая риторика не означает удачи.
+PLAYCHESSSTARTWORDSKEY_AVATAR_4_2,Выражение должно быть стильным.
+PLAYCHESSSTARTWORDSKEY_AVATAR_5_1,Далеко.
+PLAYCHESSSTARTWORDSKEY_AVATAR_5_2,Экстремальные глаза.
+PLAYCHESSSTARTWORDSKEY_AVATAR_6_1,Входи и уходи свободно.
+PLAYCHESSSTARTWORDSKEY_AVATAR_6_2,Убрать свободно.
+PLAYCHESSSTARTWORDSKEY_AVATAR_7_1,Стальные руки.
+PLAYCHESSSTARTWORDSKEY_AVATAR_7_2,Сильная сила.
+PLAYCHESSSTARTWORDSKEY_AVATAR_8_1,Переговоры - дело купцов.
+PLAYCHESSSTARTWORDSKEY_AVATAR_8_2,Все имеет цену.
+PLAYCHESSSTARTWORDSKEY_AVATAR_9_1,Тепло солнца окружает вас.
+PLAYCHESSSTARTWORDSKEY_AVATAR_9_2,Солнце светит тебе.
+PLAYCHESSSTARTWORDSKEY_AVATAR_10_1,У меня хорошая выносливость.
+PLAYCHESSSTARTWORDSKEY_AVATAR_10_2,У меня хороший характер.
+PLAYCHESSSTARTWORDSKEY_AVATAR_11_1,У меня много друзей.
+PLAYCHESSSTARTWORDSKEY_AVATAR_11_2,Мы с друзьями часто встречаемся.
+PLAYCHESSSTARTWORDSKEY_AVATAR_12_1,Как ты смеешь бросать мне вызов?
+PLAYCHESSSTARTWORDSKEY_AVATAR_12_2,Ты играешь с огнем.
+PLAYCHESSSTARTWORDSKEY_AVATAR_13_1,"Рожденный любовью, чтобы остановить ограбление."
+PLAYCHESSSTARTWORDSKEY_AVATAR_13_2,Использовать тысячи лет.
+PLAYCHESSSTARTWORDSKEY_AVATAR_14_1,У меня много братьев.
+PLAYCHESSSTARTWORDSKEY_AVATAR_14_2,У меня есть несколько сестер.
+PLAYCHESSSTARTWORDSKEY_AVATAR_15_1,"Идеал и реальность, какую вы выберете?"
+PLAYCHESSSTARTWORDSKEY_AVATAR_15_2,Соленая рыба не идеальна.
+PLAYCHESSSTARTWORDSKEY_AVATAR_16_1,"Я могу, я веган."
+PLAYCHESSSTARTWORDSKEY_AVATAR_16_2,"Небо и земля широкие, сердце широкое."
+PLAYCHESSSTARTWORDSKEY_AVATAR_17_1,Здесь такой сильный ветер.
+PLAYCHESSSTARTWORDSKEY_AVATAR_17_2,Ветер дует с одной силой.
+PLAYCHESSSTARTWORDSKEY_AVATAR_18_1,От горького холода пахнет сливой.
+PLAYCHESSSTARTWORDSKEY_AVATAR_18_2,Страдания - это жизнь.
+PLAYCHESSSTARTWORDSKEY_AVATAR_19_1,Будущее имеет будущие договоренности.
+PLAYCHESSSTARTWORDSKEY_AVATAR_19_2,Сегодня есть планы.
+PLAYCHESSSTARTWORDSKEY_AVATAR_20_1,Серьезность - это отношение.
+PLAYCHESSSTARTWORDSKEY_AVATAR_20_2,Мое отношение серьезное и бережное.
+PLAYCHESSSTARTWORDSKEY_AVATAR_21_1,В мире есть ты и я.
+PLAYCHESSSTARTWORDSKEY_AVATAR_21_2,Мы с тобой уникальны.
+PLAYCHESSSTARTWORDSKEY_AVATAR_22_1,В молодости я был очень энергичен.
+PLAYCHESSSTARTWORDSKEY_AVATAR_22_2,Я сейчас тоже очень энергичный.
+PLAYCHESSSTARTWORDSKEY_AVATAR_23_1,Исправляй себя.
+PLAYCHESSSTARTWORDSKEY_AVATAR_23_2,Взгляните на себя.
+PLAYCHESSSTARTWORDSKEY_AVATAR_24_1,"Ремонт для того, чтобы увидеть себя."
+PLAYCHESSSTARTWORDSKEY_AVATAR_24_2,"Собственный ремонт, сам знаешь."
+PLAYCHESSSTARTWORDSKEY_AVATAR_25_1,Корона сделана из золота.
+PLAYCHESSSTARTWORDSKEY_AVATAR_25_2,Корона сверкает.
+PLAYCHESSSTARTWORDSKEY_AVATAR_26_1,И яркую корону тоже нужно почаще вытирать.
+PLAYCHESSSTARTWORDSKEY_AVATAR_26_2,"Корона сделана из золота, что представляет собой качество."
+PLAYCHESSSTARTWORDSKEY_AVATAR_27_1,Все говорят о победе.
+PLAYCHESSSTARTWORDSKEY_AVATAR_27_2,"Я получу то, что хочу."
+PLAYCHESSSTARTWORDSKEY_AVATAR_28_1,Чистая комната тоже требует частого ухода.
+PLAYCHESSSTARTWORDSKEY_AVATAR_28_2,Упаковка комнаты - не простая задача.
+PLAYCHESSSTARTWORDSKEY_AVATAR_29_1,Долго настаивать на работе - нелегко.
+PLAYCHESSSTARTWORDSKEY_AVATAR_29_2,Ухаживать за дворцом нелегко.
+PLAYCHESSSTARTWORDSKEY_AVATAR_30_1,Не надо было меня видеть.
+PLAYCHESSSTARTWORDSKEY_AVATAR_30_2,Не вижу.
+NOW_I_AM_THE_TEAM_LEADER,Теперь я впереди команды.
+WAIT_A_MOMENT,Минуточку.
+DICE_STARTED,%s - грань активирована
+WHERE_ARE_THE_LOBBYISTS,Где находится {JOB_LOBBYIST}?
+SILENT_NOTE_DO,Молчаливые ноты · Доу (1)
+SILENT_NOTE_RE,Молчаливые ноты · Приходите (2)
+SILENT_NOTE_MI,Тихая нота Ми (3)
+SILENT_NOTE_FA,Молчаливые ноты · Отправка (4)
+SILENT_NOTE_SOL,Молчаливые ноты · Подстрекательство (5)
+SILENT_NOTE_LA,Молчаливые ноты (6)
+SILENT_NOTE_SI,Тихие ноты · Запад (7)
+NOTE_DO,Доу (1)
+NOTE_RE,Приходите (2)
+NOTE_MI,Ми (3)
+NOTE_FA,Отправить (4)
+NOTE_SOL,Подстрекательство (5)
+NOTE_LA,Да (6)
+NOTE_SI,Запад (7)
+WIN_THE_KING,Ты победил короля.
+KING_LOW_VOICE,"Низкий голос говорит,%s, не говори другим,"
+WHEN_I_WAS_YOUNG,"Я использовал его в молодости, а потом у меня была корона."
+ALL_GIFTS_HAD_GIVE_YOU,Мои маленькие подарки для тебя.
+YOU_NEED_TO_PROVE,"Докажи свою храбрость, чтобы получить подарок."
+DOOR_1,Западные ворота к югу от {SCENE_NAME_STAVE_AVENUE}
+DOOR_2,Южные восточные ворота {SCENE_NAME_STAVE_AVENUE}
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_26_1,Крепкий.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_26_2,Давно.
+NOT_EASY_OPEN_THE_DOOR_WITHOUT_THE_KEY,Дверь без ключа нелегко открыть.
+TRUSTED_CLASSMATE,"Я больше доверяю своим одноклассникам, упомянутым в приглашении принцессы."
+YOU_HAD_THE_KEY,У тебя уже есть этот ключ.
+PLAYCHESSSTARTWORDSKEY_AVATAR_26_3,Любопытство является движущей силой прогресса.
+VISUAL_RANGE_IS_AT_MAXIMUM,Расстояние обзора {GOODS_NAME_2} достигло максимума.
+YOU_ALREADY_HAVE_A_TELESCOPE,У тебя уже есть телескоп.
+YOU_NEED_A_TELESCOPE_FIRST,Сначала вам нужен телескоп.
+YOU_ALREADY_HAVE_THIS_KEY,У тебя уже есть этот ключ.
+HAVE_ALREADY_USED,Уже используется.
+DOOR_3,Дверь {SCENE_NAME_HALL_OF_MELODY}
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_28_1,Старый замок.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_28_2,Долгая история.
+WRANGLEDIALOGTYPEID_SISTER_1_SUCCESS_1,"В моем кабинете, вернемся туда и проверим."
+FAMILY_IS_THE_MOST_IMPORTANT_THING,Для меня семья важнее всего.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_65_1,Не позволяйте другим видеть.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_65_2,Тайное письмо.
+TO_ROYAL_HOUSEHOLD_LETTER,Королевский персонал лично.
+DOOR_CLOSE,Дверь закрылась.
+GUARD_THE_ROYAL_FAMILY,Охрана королевской семьи.
+YOU_CAN_NOT_FOUND_QIU_YU,Вы не можете его найти.
+YOU_WILL_BE_SORRY,"Как вы смеете бросать мне вызов, вы пожалеете об этом."
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_66_1,Не видно.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_66_2,Внутри темно.
+WE_LOOK_FORWARD_TO_LEARNING_PARTNERS,Я жду образованных партнеров.
+OWN_WONDERFUL,"Хотя жизненный путь обречен на дрейф, он также должен жить своим прекрасным."
+WE_HAVE_FOUND_THE_TWELVE_GOO,"Мы нашли {TWELVE_BUGS}, да, двенадцать слизистых червей здесь."
+MEMBERS_OF_THE_TEAM_WHO_LEFT,"Члены, покидающие команду:%s."
+HOWEVER_SOME_MEMBERS_SURVIVED,"Тем не менее, некоторые члены команды упорно выжили."
+HOME_SAFE_1,Дом - безопасная гавань.
+HOME_SAFE_2,Дом - это наше убежище.
+HOME_IS_SAFE,"Или дома безопасно,"
+IT_IS_GETTING_DARK_YOU_CAN_NOT_PLAY_CHESS,"Будет темно, не играй."
+WAY_HOME_1,"Надеюсь, ты помнишь дорогу домой."
+WAY_HOME_2,Возвращение домой - самый безопасный вариант.
+IT_IS_GETTING_DARK_YOU_CAN_NOT_OPERATE,"Наступит темно, не оперировать."
+IT_IS_PLAY_CHESS_YOU_CAN_NOT_OPERATE,В {PLAY_CHESS_NAME} это невозможно.
+WILL_FINAL,Ищите ее кота {NAME_2}.
+TWELVE_BUGS,Двенадцать липких
+THE_GAME_HAS_NOT_STARTED_YET,Игра еще не началась.
+I_AM_GOING_TO_START_COUNTING,Я начну считать.
+LOOK_WHERE_THEY_ARE,"{NAME_2} Посмотрите, где они."
+CURRENT_STANDING_POSITION_CANNOT_START_PATHFINDING,"Текущее положение станции, не может начать поиск пути."
+THE_LAST_COUNT_IS_NOT_OVER,Предыдущее число еще не закончилось.
+WE_FINALLY_FOUND,Наконец - то мы нашли {NAME_AVATAR_19}!  Друзья воссоединились!
+WE_WILL_TOGETHER,"Я всегда верил, что увижу вас снова!"
+I_CAN_NOT_HAVE_MY_LITTLE_GIFT_AGAIN,Ты доказал свою храбрость.
+PICK_UP_OR_NOT,Подхватил?
+ALREADY_MINIMUM,Уже минимальный.
+ALREADY_MAXIMUM,Уже Макс.
+NEED_CHARGING_NUMBERING,Требуется зарядка {GOODS_NAME_NUMBERINGROD}.
+DOOR_NAME,Дверь
+OPEN_DOOR_OR_NOT,Открыть?
+DOOR_OPENED,Дверь открылась.
+CAN_NOT_DISCARD,Не могу выбросить.
+GIFT_OR_NOT,Подарок?
+NO_NUMBERINGROD,Нет {GOODS_NAME_NUMBERINGROD}.
+NUMBERING,Hомер
+GUIDE_BOARD,Дорожн знак
+RADIO_CASSETTE_RECORDER,Автоответчик
+DEAD_TREE,Засохш
+KUMQUAT,С ким
+PINE_TREE,Сосн
+FLOWERS,цвет
+GRASS,трав
+OSMANTHUS_FRAGRANS,баоба
+BANYAN,Банья
+ARAUCARIA,Южная Секвойя.
+FIR,Пихт
+PLAY_MUSIC,Включи музыку.
+NAME_PATHWAY,Троп
+PATHWAY_DESCRIPTION,"Тёмная тропа, ведущая впереди."
+START_COUNTING_OR_NOT,Начнем считать?

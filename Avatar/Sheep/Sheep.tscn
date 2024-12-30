@@ -1,0 +1,13 @@
+[gd_scene load_steps=4 format=2]
+
+[ext_resource path="res://Avatar/KinematicBody2DSheep.tscn" type="PackedScene" id=1]
+[ext_resource path="res://Script/Avatar/Sheep/Sheep.gd" type="Script" id=4]
+
+[sub_resource type="CapsuleShape2D" id=1]
+radius = 6.0
+
+[node name="Sheep" instance=ExtResource( 1 )]
+script = ExtResource( 4 )
+
+[node name="collisionShape2D1" parent="." index="6"]
+shape = SubResource( 1 )

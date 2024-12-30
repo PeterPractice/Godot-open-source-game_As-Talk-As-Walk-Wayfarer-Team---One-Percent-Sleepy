@@ -1,0 +1,487 @@
+stringKey,stringContent
+NAME_GAME_NAME,As Talk As Walk Wayfarer Team - One Percent Sleepy
+NAME_1,Land of Music
+NAME_2,AMan
+NAME_2_EYE,The Eye of AMan
+NAME_AVATAR_1,Bolt 1
+NAME_AVATAR_2,Wise
+NAME_AVATAR_3,Chen Xiao Ming
+NAME_AVATAR_4,Common Person
+NAME_AVATAR_5,Windy
+NAME_AVATAR_6,Bolt 2
+NAME_AVATAR_7,Bolt 3
+NAME_AVATAR_8,Li Crooked Neck
+NAME_AVATAR_9,Sun Goddess
+NAME_AVATAR_10,Slime Over
+NAME_AVATAR_11,Slime Growth
+NAME_AVATAR_12,Slime For
+NAME_AVATAR_13,Slime Love
+NAME_AVATAR_14,Slime Resist
+NAME_AVATAR_15,Slime Disaster
+NAME_AVATAR_16,Slime Donot
+NAME_AVATAR_17,Slime Cherish
+NAME_AVATAR_18,Si Warm Heart
+NAME_AVATAR_19,Fa Princess Younger Sister
+NAME_AVATAR_19_2,Autumn Yu
+NAME_AVATAR_20,Silver Dragon
+NAME_AVATAR_21,Slime Ten
+NAME_AVATAR_22,Slime Thousand
+NAME_AVATAR_23,Slime Years
+NAME_AVATAR_24,Slime Life
+NAME_AVATAR_25,Do King
+NAME_AVATAR_26,Re Queen
+NAME_AVATAR_27,Mi Princess Elder Sister
+NAME_AVATAR_28,La Housekeeper
+NAME_AVATAR_29,Sol Butler
+NAME_AVATAR_30,Bag
+NAME_AVATAR_31,Notepad
+NAME_AVATAR_32,{NAME_AVATAR_19}’s letter
+NAME_AVATAR_33,Three Dragons Gang
+NAME_AVATAR_34,{NAME_AVATAR_33}’s letter
+NAME_AVATAR_35,Jin Chitong
+NAME_AVATAR_36,Secret Passage
+NAME_AVATAR_SHEEP,Sheep
+NAME_AVATAR_HOLLY,Holly
+GOODS_NAME_1,Pathfinder Canvas Shoes
+GOODS_NAME_2,Telescope
+GOODS_NAME_3,Wig
+GOODS_NAME_4,Wig
+GOODS_NAME_5,Wig
+GOODS_NAME_6,Wig
+GOODS_NAME_7,Long Wig
+GOODS_NAME_8,Long Wig
+GOODS_NAME_9,Long Wig
+GOODS_NAME_10,Long Wig
+GOODS_NAME_11,Color-Changing Wig
+GOODS_NAME_HOUSEKEEPERKEY,The Key to {NAME_AVATAR_28}
+GOODS_NAME_BUTLERKEY,The Key to {NAME_AVATAR_29}
+GOODS_NAME_QUEENKEY,The Key to {NAME_AVATAR_26}
+GOODS_NAME_NUMBERINGROD,Numbering Rod
+GOODS_DESCRIPTION_1,"With this pair of shoes, you can walk automatically."
+GOODS_DESCRIPTION_2,"See further, especially in bad light."
+GOODS_DESCRIPTION_3,{JOB_LOBBYIST}’s.
+GOODS_DESCRIPTION_4,{JOB_LOBBYIST}’s.
+GOODS_DESCRIPTION_5,{JOB_LOBBYIST}’s.
+GOODS_DESCRIPTION_6,{JOB_LOBBYIST}’s.
+GOODS_DESCRIPTION_7,{JOB_LOBBYIST}’s.
+GOODS_DESCRIPTION_8,{JOB_LOBBYIST}’s.
+GOODS_DESCRIPTION_9,{JOB_LOBBYIST}’s.
+GOODS_DESCRIPTION_10,{JOB_LOBBYIST}’s.
+GOODS_DESCRIPTION_11,"A backpack can carry many items, adventure trips, hiking essential tools."
+GOODS_DESCRIPTION_12,"Keep track of what you see, hear, encounter, and feel along the way."
+GOODS_DESCRIPTION_18,{JOB_LOBBYIST}'s. Made of special materials.
+GOODS_DESCRIPTION_HOUSEKEEPERKEY,"When carrying, you can open {DOOR_1}."
+GOODS_DESCRIPTION_BUTLERKEY,"When carrying, {DOOR_2} can be opened."
+GOODS_DESCRIPTION_QUEENKEY,"While carrying, you can open the door for {SCENE_NAME_HALL_OF_MELODY}."
+GOODS_DESCRIPTION_NUMBERINGROD,Beat number.
+GOODS_IN_USE,In use.
+GOODS_UNUSED,Unused.
+GOODS_TELESCOPE_VISUALFIELDDISTANCE,Visual field distance: %s.
+GOODS_TELESCOPE_VISUALFIELDSHARPTYPE,Visual field shape: %s.
+GOODS_TELESCOPE_VISUALFIELDSHARPTYPE_RHOMBUS,Rhombus
+GOODS_TELESCOPE_VISUALFIELDSHARPTYPE_EGG,Egg shape
+GOODS_TELESCOPE_VISUALFIELDDISTANCE2,Visual field distance: %s (+%s).
+JOB_LOBBYIST,Lobbyist
+PLAY_CHESS_NAME,Play Chess
+PLAY_CHESS_POINTS,{PLAY_CHESS_NAME} Points
+SCENE_NAME_1_HOME,{NAME_AVATAR_1}'s home
+SCENE_NAME_3_HOME,{NAME_AVATAR_3}'s home
+SCENE_NAME_4_HOME,{NAME_AVATAR_4}'s home
+SCENE_NAME_3_HOME_COURTYARD,The courtyard of {NAME_AVATAR_3}'s house
+SCENE_NAME_CHORD_SQUARE,Chord Square
+SCENE_NAME_STAVE_AVENUE,Stave Avenue
+SCENE_NAME_HALL_OF_MELODY,Hall of Melody
+SCENE_NAME_CLINKER_VALLEY,Clinker Valley
+SCENE_NAME_CRACKING_VOICE_RIDGE,Cracking Voice Ridge
+SCENE_NAME_GRASSLAND,Soccer Field
+NPCARTICLETRIGGER_NAME_1,The door of {NAME_AVATAR_1}'s house
+NPCARTICLETRIGGER_NAME_2,{NAME_AVATAR_3} The door of the house
+NPCARTICLETRIGGER_NAME_3,{NAME_AVATAR_4} The door of the house
+STARTGAMEPANEL_TITLELABEL38GAMETITLE,{NAME_GAME_NAME}
+STARTGAMEPANEL_COMMONLABELVERSION,Version %s
+STARTGAMEPANEL_COMMONBUTTON31LOADGAME,Load Game
+STARTGAMEPANEL_STARTGAME,Start Game
+STARTGAMEPANEL_CONTINUEGAME,Continue Game
+STARTGAMEPANEL_COMMONBUTTON31OPTION,Options
+STARTGAMEPANEL_COMMONBUTTON31EXITGAME,Exit Game
+STARTGAMEPANEL_COMMONLABELARCHIVE,Archive
+STARTGAMEPANEL_ARCHIVE_NEW_GAME,New Game
+STARTGAMEPANEL_ARCHIVE_CLEAR,Delete
+STARTGAMEPANEL_ARCHIVE_CLEAR_DOUBLE_CONFIRMATION,Delete archive%s double confirmation
+PANEL_BUTTON_OK,OK
+PANEL_BUTTON_CANCEL,Cancel
+PANEL_BUTTON_CLOSE,Close
+PANEL_BUTTON_YES,Yes
+PANEL_BUTTON_NO,No
+OPTIONPANEL_COMMONLABEL31TITLE,Options Screen
+OPTIONPANEL_COMMONBUTTONLANGUAGE,Select Language
+OPTIONPANEL_COMMONLABELVIDEORESOLUTIONRATIO,Video Resolution:
+OPTIONPANEL_COMMONLABELFULLSCREEN,Full Screen:
+OPTIONPANEL_COMMONLABELWINDOWSTRETCH,Graphic Stretch:
+OPTIONPANEL_COMMONLABELMUSIC,Music:
+OPTIONPANEL_COMMONLABELSOUNDEFFECT,Sound Effect:
+OPTIONPANEL_COMMONLABELVIDEORESOLUTIONRATIO_2,1280x720
+OPTIONPANEL_COMMONLABELVIDEORESOLUTIONRATIO_3,1920x1080
+OPTIONPANEL_SCREEN_RESOLUTION,Screen Resolution
+OPTIONPANEL_COMMONLABELLANGUAGE,Language:
+OPTIONPANEL_COMMONBUTTONDEFAULT,Default
+OPTIONPANEL_COMMONBUTTONRETURNTOHUBSCENE,Back to Hub
+OPTIONPANEL_COMMONBUTTONEXITGAME,Exit Game
+OPTIONPANEL_COMMONBUTTONRETURNTOGAME,Return To Game
+OPTIONPANEL_GENERAL,General
+OPTIONPANEL_KEYBOARD,Keyboard
+OPTIONPANEL_KEYBOARD_MOVE,Move:
+OPTIONPANEL_KEYBOARD_MOVE_CONTENT,ADSW (or ←→↓↑)
+OPTIONPANEL_KEYBOARD_INTERACTION_TALK,{DOWNPANEL_INTERACTION}:
+OPTIONPANEL_KEYBOARD_INTERACTION_TALK_CONTENT,E
+OPTIONPANEL_KEYBOARD_WAVE,Wave:
+OPTIONPANEL_KEYBOARD_WAVE_CONTENT,Enter(or Space)
+OPTIONPANEL_KEYBOARD_BAG,Bag:
+OPTIONPANEL_KEYBOARD_BAG_CONTENT,B
+OPTIONPANEL_KEYBOARD_OPTIONS_SCREEN,Options Screen:
+OPTIONPANEL_KEYBOARD_OPTIONS_SCREEN_CONTENT,O
+OPTIONPANEL_KEYBOARD_YES,Yes:
+OPTIONPANEL_KEYBOARD_YES_CONTENT,Y
+OPTIONPANEL_KEYBOARD_NO,No:
+OPTIONPANEL_KEYBOARD_NO_CONTENT,N
+OPTIONPANEL_ABOUT,About
+OPTIONPANEL_ABOUT_NAME_OF_THE_GAME,Game Name: {NAME_GAME_NAME}.
+OPTIONPANEL_ABOUT_VERSION,Version: %s.
+OPTIONPANEL_ABOUT_COPYRIGHT_AND_DEVELOPMENT,Description: %s.
+OPTIONPANEL_ABOUT_CONTACT,Contact: %s.
+OPTIONPANEL_ABOUT_CONTACT_COPY,Copy
+OPTIONPANEL_ABOUT_THANKS,"Thanks: Thanks to my family, without their support, this game would not be possible."
+LANGUAGEPANEL_COMMONLABEL31TITLE,Select Language
+TIME_YEAR,years
+TIME_MONTH,months
+TIME_DAY,days
+TIME_HOUR,hours
+TIME_MINUTE,minutes
+TIME_SECOND,seconds
+BOOTSCENE_STARTING_STRING1,STARTING
+BOOTSCENE_STARTING_STRING2,STARTING.
+BOOTSCENE_STARTING_STRING3,STARTING..
+BOOTSCENE_STARTING_STRING4,STARTING…
+DAYNIGHTPANEL_COMMONLABELDAYSNUMBER,Days %s
+DAYNIGHTPANEL_FIRSTSTARTNIGHT,It's getting dark.
+CURRENTSCENESHOWNAME_ENTER,Enter %s.
+DOWNPANEL_INTERACTION,Interaction
+DOWNPANEL_CONTROLBAGUSE_COMMONBUTTON13BAGUSE,Use
+DOWNPANEL_CONTROLBAGUSE_COMMONBUTTON13DISCARD,Discard
+DOWNPANEL_WRANGLEDIALOG_ASK_DISCARD,Discard？
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_1,"Ashes to dust, look and burn."
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_2,Cleared.
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_3,It's clean.
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_4,empty.
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_5,empty empty.
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_6,empty empty.
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_7,"Empty empty, empty empty, empty empty."
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_8,"Empty, empty empty empty, empty empty."
+IN_CD,In cool down.
+AVATAR_CAN_NOT_MOVE,Can not move.
+AVATAR_HAD_EQUIP,Already worn: %s.
+AVATAR_HAD_EQUIP2,already worn.
+CHESSPANEL1_PLAYCHESS_START,{PLAY_CHESS_NAME} start
+CHESSPANEL1_PLAYCHESS_SUCCESS,{PLAY_CHESS_NAME} success
+CHESSPANEL1_PLAYCHESS_FAILURE,{PLAY_CHESS_NAME} failure
+CHESSPANEL1_COMMONBUTTONCONTINUE,Continue
+CHESSPANEL1_MOUSECLICKCONTINUE,(Left mouse button click anywhere to continue)
+CHESSPANEL1_POINTS,%s Play Chess Points: %s.
+SLOGAN_NEW_DAY_1,A new day begins.
+SLOGAN_NEW_DAY_2,The day of adventure began.
+SLOGAN_NEW_DAY_3,A New Day.
+SLOGAN_NEW_DAY_4,A day of adventure.
+SLOGAN_NEW_DAY_5,Long way to go.
+SLOGAN_NEW_DAY_6,Long way to go. Ready to go.
+SLOGAN_NEW_DAY_7,Ready to go.
+SLOGAN_NEW_DAY_8,Set out.
+SLOGAN_AVATAR_DEAD_1,The night devours those who are not afraid of the dark.
+SLOGAN_AVATAR_DEAD_2,It's dark. You're consumed by the night.
+NAVIGATIONMANAGER_NOT_VALID_PATH_END_POSITION,Invalid destination.
+NAVIGATIONMANAGER_END_OBSTRUCTIONS_NEARBY,Stop automatic pathfinding. There's an obstacle nearby.
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_1,One shoe for a pair of shoes?
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_2,Left foot and right foot are one shoe?
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_3,Where are the batteries?
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_4,Can't find the switch.
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_5,Where is the switch?
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_6,It's already on.
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_7,I can find my way automatically.
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_8,I won't get lost this time.
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_9,Where are we going again?
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_10,Let me see where we're going.
+GOODSUSEFUNCTION_PUTONEQUIP_TELESCOPE_1,See further.
+GOODSUSEFUNCTION_PUTONEQUIP_TELESCOPE_2,Better view.
+GOODSADDFUNCTION_TELESCOPE_1,"New skill, clairvoyance."
+GOODSADDFUNCTION_TELESCOPE_2,It's not clairvoyant. It's got to be 10 meters.
+GOODSREMOVEFUNCTION_TELESCOPE_1,I can't look any further.
+GOODSREMOVEFUNCTION_TELESCOPE_2,Uncomfortable with it?
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_1,In full bloom.
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_2,It's very impressive.
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_3,A tree grows like the wind.
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_4,Keep your chest up.
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_5,Professional.
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_6,"A man by his hair, a horse by his saddle."
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_7,There may be an increase in intelligence.
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_8,Intelligence+1.
+GOODSADDFUNCTION_WIG_1,The good Stuff.
+GOODSADDFUNCTION_WIG_2,Finally found it.
+GOODSADDFUNCTION_WIG_3,Not bad.
+GOODSADDFUNCTION_WIG_OTHER_1,A wig?
+GOODSADDFUNCTION_WIG_OTHER_2,A wig should be worn on {JOB_LOBBYIST}.
+GOODSADDFUNCTION_WIG_OTHER_3,A {JOB_LOBBYIST} wig?
+GOODSREMOVEFUNCTION_WIG_1,Intelligence-1.
+GOODSREMOVEFUNCTION_WIG_2,Head cold.
+GOODSREMOVEFUNCTION_WIG_3,It doesn't feel professional.
+GOODSREMOVEFUNCTION_WIG_4,I felt a decline in intelligence.
+GOODSREMOVEFUNCTION_WIG_5,A burnt wig is like burnt hair.
+GOODSREMOVEFUNCTION_WIG_6,It's not a shame to throw away the wig.
+GOODSREMOVEFUNCTION_WIG_7,He's professional without a wig.
+GOODSREMOVEFUNCTION_WIG_8,A professional can't rely on a wig.
+GOODSADDFUNCTION_FOOT_1,Now you know where to go.
+GOODSADDFUNCTION_FOOT_2,Are these shoes so high class? Can you navigate?
+GOODSADDFUNCTION_FOOT_3,Do these shoes need power for navigation?
+GOODSADDFUNCTION_FOOT_4,Is it shoe-throwing navigation?
+GOODSADDFUNCTION_FOOT_5,How? With your shoes on.
+GOODSREMOVEFUNCTION_FOOT_1,Go barefoot.
+GOODSREMOVEFUNCTION_FOOT_2,I can't navigate.
+GOODSREMOVEFUNCTION_FOOT_3,"Throw away the shoes, just disappear; Lost navigation, step by step to go yourself."
+CANNOT_WEAR_IT_LOBBYIST_WIG_1,Can't wear it. {JOB_LOBBYIST} wig.
+CANNOT_WEAR_IT_LOBBYIST_WIG_2,This is a wig for {JOB_LOBBYIST}.
+BAG_IS_FULL,"Bag is full, can't carry more."
+BAG_ADD,Obtain: %s.
+BAG_REMOVE,Discard: %s.
+BAG_USE,Use: %s.
+TOP_BUTTON,Top button
+BOTTOM_BUTTON,Bottom button
+CLEAR_BUTTON,Clear button
+AVATAR_DESCRIPTION_1,"I am a snake, a strong snake. I am the oldest of the three brothers."
+AVATAR_DESCRIPTION_2,"I want to be like the clouds in the sky, running wantonly, with wind and rain."
+AVATAR_DESCRIPTION_3,"I have begun to learn classical literature, music and painting."
+AVATAR_DESCRIPTION_4,"The lawyer, the football player, and my wig."
+AVATAR_DESCRIPTION_8,I'm a businessman. I believe in fair trade.
+AVATAR_DESCRIPTION_6,"I'm a snake, a strong snake, a snake in armor. I'm the second of three brothers."
+AVATAR_DESCRIPTION_7,"I'm a snake, a strong snake, a snake with armor and robotic arms. I'm the third of three brothers."
+AVATAR_DESCRIPTION_5,Speed is the first thing. My apprentices are very strong. I've been looking for the distance.
+AVATAR_DESCRIPTION_9,You can talk to me if you need to. My dog always runs around. Have you seen him?
+AVATAR_DESCRIPTION_10,"We are not vermin, floating us."
+AVATAR_DESCRIPTION_11,"We are not pests, we live forever."
+AVATAR_DESCRIPTION_12,"We are not pests, for ideal us."
+AVATAR_DESCRIPTION_13,We're not pests. Love us.
+AVATAR_DESCRIPTION_14,We're not vermin. The windshields are warm.
+AVATAR_DESCRIPTION_15,"We are not pests, disaster is an experience."
+AVATAR_DESCRIPTION_16,"We are not pests, do not look at the future, naturally spontaneous."
+AVATAR_DESCRIPTION_17,"We are not pests, cherish, is a kind of attitude."
+AVATAR_DESCRIPTION_18,"I want to be like the stars in the sky, all over the world."
+AVATAR_DESCRIPTION_19,Being a princess is not a solo career. Princesses also have many good friends.
+AVATAR_DESCRIPTION_20,"This operation must be carried out in secret, not exposed."
+AVATAR_DESCRIPTION_21,We're not pests. We're one in a million.
+AVATAR_DESCRIPTION_22,We're not pests. We're young.
+AVATAR_DESCRIPTION_23,"We are not pests, repair, is a kind of life."
+AVATAR_DESCRIPTION_24,"We are not pests, for, is a kind of life, is also a kind of attitude."
+AVATAR_DESCRIPTION_25,"I am the king, {NAME_1} welcome you."
+AVATAR_DESCRIPTION_26,"I am the queen, {NAME_1} welcome you."
+AVATAR_DESCRIPTION_27,"I am the princess, and the throne is mine."
+AVATAR_DESCRIPTION_28,You must be hungry. What would you like to eat? Tell me.
+AVATAR_DESCRIPTION_29,"Service is my purpose. My hat is beautiful, so I don't need those wigs."
+ADDAVATARFROMSCENE_ADD_TEAM_MEMBERS,Add new members to the team: %s.
+TEAM_MEMBERS_REPEATEDLY,You cannot add team members repeatedly: %s.
+MAXIMUM_OF_AVATAR,The team has a maximum of %s avatar.
+TIPS_STRING_AND_FLAG,","
+NO_JOURNALRECORDBOOK,No {NAME_AVATAR_31}.
+NO_BAG,No {NAME_AVATAR_30}.
+SCENE_CONTENT_1_HOME,There is a powerful force at home.
+SCENE_CONTENT_3_HOME,"Home has a table, the table has {NAME_AVATAR_31}."
+SCENE_CONTENT_4_HOME,There is {NAME_AVATAR_30} on the bed at home.
+SCENE_CONTENT_3_HOME_COURTYARD,I have {NAME_AVATAR_2} in my yard.
+SCENE_CONTENT_CHORD_SQUARE,Friends often gather here.
+SCENE_CONTENT_STAVE_AVENUE,The road to the unknown. It is said that there are several paths here.
+SCENE_CONTENT_HALL_OF_MELODY,"Here is the palace of {NAME_1}, with many rooms."
+SCENE_CONTENT_CLINKER_VALLEY,A place of exile. A place where you might find someone.
+SCENE_CONTENT_CRACKING_VOICE_RIDGE,The mountains are wild and the jungle is thick.
+SCENE_CONTENT_PLAY_CHESS,Good luck with you where you compete.
+PLANET_47,Planet 47
+PLAYCHESSSUCCESSFUNCTION_AVATAR_9_STRING,Success is never easy.
+PLAYCHESSFAILUREFUNCTION_AVATAR_9_STRING,Failure doesn't last forever.
+I_LIKE_LOBBYIST,I like people who have the gift of gab.
+IS_DOG1,"Like wanton running, wind and rain, dear friend, is it you?"
+YOU_ARE_A_TALL_FELLOW,You're a tall fellow!
+WINS_AND_LOSSES_ARE_COMMON_1,Wins and losses are common.
+WINS_AND_LOSSES_ARE_COMMON_2,Speed is the first thing.
+WINS_AND_LOSSES_ARE_COMMON_3,My apprentices are very strong.
+WINS_AND_LOSSES_ARE_COMMON_4,I've been looking for the distance.
+I_DONOT_HAVE_MY_BEST_FRIEND_HERE,I'm going with my best friend.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_1_1,Open up.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_1_2,Open it.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_2_1,Knowledge is power.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_2_2,Record contains life.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_3_1,Isolate a world.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_3_2,Keep a quiet.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_9_1,There is no place to find it.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_9_2,It took no effort to get here.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_10_1,A letter from a classmate.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_10_2,A letter from a friend.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_11_1,Silence.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_11_2,Silence.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_11_3,Repetition is the key to success.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_11_4,There is a secret to doing things.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_11_5,Haste makes waste.
+PLAYCHESSFAILUREFUNCTION_NPCARTICLE_ODETOJOY,"I am the guardian of {NAME_1}, the king's loyal guard."
+PLAYCHESSSTARTWORDSKEY_AVATAR_1_1,I will win.
+PLAYCHESSSTARTWORDSKEY_AVATAR_1_2,You will win.
+PLAYCHESSSTARTWORDSKEY_AVATAR_2_1,Luck has to be touched.
+PLAYCHESSSTARTWORDSKEY_AVATAR_2_2,Good luck must be touched.
+PLAYCHESSSTARTWORDSKEY_AVATAR_3_1,I've calculated the odds of winning.
+PLAYCHESSSTARTWORDSKEY_AVATAR_3_2,It's also a learning opportunity.
+PLAYCHESSSTARTWORDSKEY_AVATAR_4_1,Good words do not mean good luck.
+PLAYCHESSSTARTWORDSKEY_AVATAR_4_2,Pay attention to the manner of expression.
+PLAYCHESSSTARTWORDSKEY_AVATAR_5_1,Far away.
+PLAYCHESSSTARTWORDSKEY_AVATAR_5_2,The extreme view.
+PLAYCHESSSTARTWORDSKEY_AVATAR_6_1,Come and go as you please.
+PLAYCHESSSTARTWORDSKEY_AVATAR_6_2,Put back and forth freely.
+PLAYCHESSSTARTWORDSKEY_AVATAR_7_1,Arms of steel.
+PLAYCHESSSTARTWORDSKEY_AVATAR_7_2,A powerful force.
+PLAYCHESSSTARTWORDSKEY_AVATAR_8_1,Bargaining is the business of a merchant.
+PLAYCHESSSTARTWORDSKEY_AVATAR_8_2,Everything has a price.
+PLAYCHESSSTARTWORDSKEY_AVATAR_9_1,The warmth of the sun surrounds you.
+PLAYCHESSSTARTWORDSKEY_AVATAR_9_2,The sun is shining on you.
+PLAYCHESSSTARTWORDSKEY_AVATAR_10_1,I have good endurance.
+PLAYCHESSSTARTWORDSKEY_AVATAR_10_2,I have a good temper.
+PLAYCHESSSTARTWORDSKEY_AVATAR_11_1,I have many friends.
+PLAYCHESSSTARTWORDSKEY_AVATAR_11_2,My friends and I go together a lot.
+PLAYCHESSSTARTWORDSKEY_AVATAR_12_1,How dare you challenge me?
+PLAYCHESSSTARTWORDSKEY_AVATAR_12_2,You're playing with fire.
+PLAYCHESSSTARTWORDSKEY_AVATAR_13_1,Floating life for love to block.
+PLAYCHESSSTARTWORDSKEY_AVATAR_13_2,Even thousands of years of practice.
+PLAYCHESSSTARTWORDSKEY_AVATAR_14_1,I have many brothers.
+PLAYCHESSSTARTWORDSKEY_AVATAR_14_2,I have several sisters.
+PLAYCHESSSTARTWORDSKEY_AVATAR_15_1,"Ideal or reality, which do you choose?"
+PLAYCHESSSTARTWORDSKEY_AVATAR_15_2,Salted fish has no ideal.
+PLAYCHESSSTARTWORDSKEY_AVATAR_16_1,"I can, I can't."
+PLAYCHESSSTARTWORDSKEY_AVATAR_16_2,"Heaven and earth wide, broad heart."
+PLAYCHESSSTARTWORDSKEY_AVATAR_17_1,It's really windy here.
+PLAYCHESSSTARTWORDSKEY_AVATAR_17_2,The wind blows in a steady stream.
+PLAYCHESSSTARTWORDSKEY_AVATAR_18_1,Plum blossom fragrance from the bitter cold.
+PLAYCHESSSTARTWORDSKEY_AVATAR_18_2,Suffering is a kind of life.
+PLAYCHESSSTARTWORDSKEY_AVATAR_19_1,The future has future arrangements.
+PLAYCHESSSTARTWORDSKEY_AVATAR_19_2,I have today's schedule.
+PLAYCHESSSTARTWORDSKEY_AVATAR_20_1,"Serious, is a kind of attitude."
+PLAYCHESSSTARTWORDSKEY_AVATAR_20_2,My attitude is serious and cherish.
+PLAYCHESSSTARTWORDSKEY_AVATAR_21_1,There are you and I in the world.
+PLAYCHESSSTARTWORDSKEY_AVATAR_21_2,You and I are unique.
+PLAYCHESSSTARTWORDSKEY_AVATAR_22_1,I used to work hard when I was young.
+PLAYCHESSSTARTWORDSKEY_AVATAR_22_2,I'm working really hard right now.
+PLAYCHESSSTARTWORDSKEY_AVATAR_23_1,Cultivate yourself.
+PLAYCHESSSTARTWORDSKEY_AVATAR_23_2,Look at yourself.
+PLAYCHESSSTARTWORDSKEY_AVATAR_24_1,Look at yourself.
+PLAYCHESSSTARTWORDSKEY_AVATAR_24_2,Do what you do and know what you do.
+PLAYCHESSSTARTWORDSKEY_AVATAR_25_1,The crown is made of gold.
+PLAYCHESSSTARTWORDSKEY_AVATAR_25_2,The crown sparkled.
+PLAYCHESSSTARTWORDSKEY_AVATAR_26_1,"Again dazzling crown, also need to wipe often."
+PLAYCHESSSTARTWORDSKEY_AVATAR_26_2,"The crown is made of gold, which represents a quality."
+PLAYCHESSSTARTWORDSKEY_AVATAR_27_1,It's all about winning and losing.
+PLAYCHESSSTARTWORDSKEY_AVATAR_27_2,I get what I ask for.
+PLAYCHESSSTARTWORDSKEY_AVATAR_28_1,"No matter how clean the room is, it also needs regular care."
+PLAYCHESSSTARTWORDSKEY_AVATAR_28_2,Cleaning a room is not an easy job.
+PLAYCHESSSTARTWORDSKEY_AVATAR_29_1,It is not easy to stick to one job for a long time.
+PLAYCHESSSTARTWORDSKEY_AVATAR_29_2,It's not easy looking after a palace.
+PLAYCHESSSTARTWORDSKEY_AVATAR_30_1,I'm not supposed to be seen.
+PLAYCHESSSTARTWORDSKEY_AVATAR_30_2,Can't see me.
+NOW_I_AM_THE_TEAM_LEADER,"Now, I'm at the front of the line."
+WAIT_A_MOMENT,Wait a minute
+DICE_STARTED,%s face die started
+WHERE_ARE_THE_LOBBYISTS,Where is a {JOB_LOBBYIST}?
+SILENT_NOTE_DO,Silent Note · Do (1)
+SILENT_NOTE_RE,Silent Note · Re (2)
+SILENT_NOTE_MI,Silent Note · Mi (3)
+SILENT_NOTE_FA,Silent Note · Fa (4)
+SILENT_NOTE_SOL,Silent Note · Sol (5)
+SILENT_NOTE_LA,Silent Note · La (6)
+SILENT_NOTE_SI,Silent Note · Si (7)
+NOTE_DO,Do (1)
+NOTE_RE,Re (2)
+NOTE_MI,Mi (3)
+NOTE_FA,Fa (4)
+NOTE_SOL,Sol (5)
+NOTE_LA,La (6)
+NOTE_SI,Si (7)
+WIN_THE_KING,You beat the king.
+KING_LOW_VOICE,"In a low voice, %s, don't tell anyone,"
+WHEN_I_WAS_YOUNG,"This little gift, I used it a lot when I was younger, but when I got the tiara, I didn't need it."
+ALL_GIFTS_HAD_GIVE_YOU,I gave you all my little gifts.
+YOU_NEED_TO_PROVE,You have to prove your courage to get the little gifts that are given to you
+DOOR_1,{SCENE_NAME_STAVE_AVENUE} West Gate to the south
+DOOR_2,{SCENE_NAME_STAVE_AVENUE} East gate on the south side
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_26_1,Firm.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_26_2,Long time ago.
+NOT_EASY_OPEN_THE_DOOR_WITHOUT_THE_KEY,A door without a key is not easy to open.
+TRUSTED_CLASSMATE,"I have to say, I trust the classmates the Princess mentioned in her invitation letter."
+YOU_HAD_THE_KEY,You already have this key.
+PLAYCHESSSTARTWORDSKEY_AVATAR_26_3,Curiosity is the power of progress.
+VISUAL_RANGE_IS_AT_MAXIMUM,View range of {GOODS_NAME_2} has reached its maximum.
+YOU_ALREADY_HAVE_A_TELESCOPE,You already have a telescope.
+YOU_NEED_A_TELESCOPE_FIRST,You need a telescope first.
+YOU_ALREADY_HAVE_THIS_KEY,You already have this key.
+HAVE_ALREADY_USED,Already used.
+DOOR_3,The door of {SCENE_NAME_HALL_OF_MELODY}
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_28_1,The old castle.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_28_2,Long history.
+WRANGLEDIALOGTYPEID_SISTER_1_SUCCESS_1,In my study. Let's go back there and check.
+FAMILY_IS_THE_MOST_IMPORTANT_THING,Family is the most important thing to me.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_65_1,Don't let anyone else see it.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_65_2,A secret letter.
+TO_ROYAL_HOUSEHOLD_LETTER,Royal personnel to open.
+DOOR_CLOSE,The door closed.
+GUARD_THE_ROYAL_FAMILY,Guard the royal family.
+YOU_CAN_NOT_FOUND_QIU_YU,You won't find it.
+YOU_WILL_BE_SORRY,"Dare to challenge me, you will regret it."
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_66_1,I can't see it.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_66_2,It's dark inside.
+WE_LOOK_FORWARD_TO_LEARNING_PARTNERS,I look forward to educated companions.
+OWN_WONDERFUL,"Life is doomed to drift, but also to live out their own wonderful."
+WE_HAVE_FOUND_THE_TWELVE_GOO,"We've found {TWELVE_BUGS}, yes, the twelve slime bugs here. "
+MEMBERS_OF_THE_TEAM_WHO_LEFT,Members who left the team: %s.
+HOWEVER_SOME_MEMBERS_SURVIVED,"However, some members of the team stubbornly survived."
+HOME_SAFE_1,Home is a safe haven.
+HOME_SAFE_2,Home is our safe haven.
+HOME_IS_SAFE,It's still safe at home.
+IT_IS_GETTING_DARK_YOU_CAN_NOT_PLAY_CHESS,It's getting dark. No chess.
+WAY_HOME_1,I hope you remember the way home.
+WAY_HOME_2,"At this point, going home is the safest option."
+IT_IS_GETTING_DARK_YOU_CAN_NOT_OPERATE,It's getting dark. You can't operate.
+IT_IS_PLAY_CHESS_YOU_CAN_NOT_OPERATE,{PLAY_CHESS_NAME} is unavailable.
+WILL_FINAL,Looking for her cat {NAME_2}.
+TWELVE_BUGS,Twelve-Viscose
+THE_GAME_HAS_NOT_STARTED_YET,The game hasn't started yet.
+I_AM_GOING_TO_START_COUNTING,I'm going to start counting.
+LOOK_WHERE_THEY_ARE,{NAME_2} Look where they are?
+CURRENT_STANDING_POSITION_CANNOT_START_PATHFINDING,Current standing position. Cannot start pathfinding.
+THE_LAST_COUNT_IS_NOT_OVER,The last count is not over.
+WE_FINALLY_FOUND,We finally found {NAME_AVATAR_19}! The friends are reunited!
+WE_WILL_TOGETHER,I always believe I will see you again!
+I_CAN_NOT_HAVE_MY_LITTLE_GIFT_AGAIN,You proved your mettle.
+PICK_UP_OR_NOT,Pick up?
+ALREADY_MINIMUM,Already minimum.
+ALREADY_MAXIMUM,Already maximum.
+NEED_CHARGING_NUMBERING,Need to charge {GOODS_NAME_NUMBERINGROD}.
+DOOR_NAME,Door
+OPEN_DOOR_OR_NOT,Open?
+DOOR_OPENED,The door opened.
+CAN_NOT_DISCARD,You can't throw it away.
+GIFT_OR_NOT,A gift?
+NO_NUMBERINGROD,No {GOODS_NAME_NUMBERINGROD}.
+NUMBERING,Numbering
+GUIDE_BOARD,Street Plate
+RADIO_CASSETTE_RECORDER,Radio-Cassette Player
+DEAD_TREE,Dead Tree
+KUMQUAT,Kumquat
+PINE_TREE,Pine Tree
+FLOWERS,Flowers
+GRASS,Grass
+OSMANTHUS_FRAGRANS,Osmanthus Fragrans
+BANYAN,Banyan
+ARAUCARIA,Araucaria
+FIR,Fir
+PLAY_MUSIC,Play music.
+NAME_PATHWAY,Pathway
+PATHWAY_DESCRIPTION,The dark path leads to the front.
+START_COUNTING_OR_NOT,Start counting?

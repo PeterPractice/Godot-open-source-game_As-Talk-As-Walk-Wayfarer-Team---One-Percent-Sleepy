@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/BGMusic_cinematic-chillhop-main-6676.mp3-b2682c146fc6b6089d9c8b2c0e64ad7a.mp3str"
+
+[deps]
+
+source_file="res://Audio/BGMusic_cinematic-chillhop-main-6676.mp3"
+dest_files=[ "res://.import/BGMusic_cinematic-chillhop-main-6676.mp3-b2682c146fc6b6089d9c8b2c0e64ad7a.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

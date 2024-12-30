@@ -1,0 +1,47 @@
+[gd_scene load_steps=7 format=2]
+
+[ext_resource path="res://Avatar/KinematicBody2DPlant.tscn" type="PackedScene" id=1]
+[ext_resource path="res://Picture/Scene/DeadTree1/DeadTree1_2.png" type="Texture" id=2]
+[ext_resource path="res://Picture/Scene/DeadTree1/DeadTree1_2_Mulch.png" type="Texture" id=3]
+[ext_resource path="res://Picture/Scene/DeadTree1/DeadTree1_2_BG.png" type="Texture" id=4]
+[ext_resource path="res://Script/Avatar/Plant/DeadTree1_2.gd" type="Script" id=5]
+
+[sub_resource type="CapsuleShape2D" id=1]
+radius = 75.0
+height = 34.0
+
+[node name="DeadTree1_2" instance=ExtResource( 1 )]
+script = ExtResource( 5 )
+
+[node name="textureRectBG" parent="." index="0"]
+margin_left = -109.0
+margin_top = -256.0
+margin_right = 109.0
+margin_bottom = 0.0
+texture = ExtResource( 4 )
+
+[node name="spriteIdleToLeft" parent="." index="1"]
+texture = ExtResource( 2 )
+offset = Vector2( 0, -149 )
+
+[node name="spriteBeEatenToLeft" parent="." index="2"]
+texture = ExtResource( 2 )
+offset = Vector2( 0, -150 )
+
+[node name="spriteSwayToLeft" parent="." index="3"]
+texture = ExtResource( 2 )
+offset = Vector2( 0, -145 )
+
+[node name="textureRectMulch" parent="." index="4"]
+margin_left = -109.0
+margin_top = -47.0
+margin_right = 109.0
+margin_bottom = 0.0
+texture = ExtResource( 3 )
+
+[node name="collisionShape2D2" parent="area2DMouse" index="0"]
+position = Vector2( 0, -117 )
+shape = SubResource( 1 )
+
+[node name="visibilityNotifier2DScreen" parent="." index="7"]
+rect = Rect2( -76, -210, 152, 210 )

@@ -1,0 +1,487 @@
+stringKey,stringContent
+NAME_GAME_NAME,Descripción del grupo de transeuntes - uno por ciento de sueño
+NAME_1,Tierra de placer
+NAME_2,AMan
+NAME_2_EYE,Ojo de Aman
+NAME_AVATAR_1,Rayo uno
+NAME_AVATAR_2,JunShi
+NAME_AVATAR_3,apellido
+NAME_AVATAR_4,Bai Ding
+NAME_AVATAR_5,JiFeng
+NAME_AVATAR_6,Rayo número 2
+NAME_AVATAR_7,Rayo número tres
+NAME_AVATAR_8,Cuello torcido
+NAME_AVATAR_9,Diosa del sol
+NAME_AVATAR_10,Pegajoso y flotante
+NAME_AVATAR_11,Pegajoso y pegajoso
+NAME_AVATAR_12,Pegajoso como
+NAME_AVATAR_13,Amor pegajoso
+NAME_AVATAR_14,pegajoso
+NAME_AVATAR_15,pegajoso
+NAME_AVATAR_16,pegajoso
+NAME_AVATAR_17,pegajoso
+NAME_AVATAR_18,Corazón occidental cálido
+NAME_AVATAR_19,Princesa pelo hermana
+NAME_AVATAR_19_2,En el otoño de uwajimaya
+NAME_AVATAR_20,Dragón plateado
+NAME_AVATAR_21,pegajoso
+NAME_AVATAR_22,Año sticky
+NAME_AVATAR_23,Reparación pegajosa
+NAME_AVATAR_24,Pegajoso como
+NAME_AVATAR_25,dorado
+NAME_AVATAR_26,Ven a la reina
+NAME_AVATAR_27,Princesa mi hermana
+NAME_AVATAR_28,mayordomo
+NAME_AVATAR_29,charlatán
+NAME_AVATAR_30,mochila
+NAME_AVATAR_31,libreta
+NAME_AVATAR_32,La carta de {NAME_AVATAR_19}
+NAME_AVATAR_33,Tres dragones
+NAME_AVATAR_34,La carta de {NAME_AVATAR_33}
+NAME_AVATAR_35,tonto
+NAME_AVATAR_36,"Carmelo,"
+NAME_AVATAR_SHEEP,ovejas
+NAME_AVATAR_HOLLY,acebo
+GOODS_NAME_1,Alpargatas de exploración
+GOODS_NAME_2,telescopio
+GOODS_NAME_3,La peluca
+GOODS_NAME_4,La peluca
+GOODS_NAME_5,La peluca
+GOODS_NAME_6,La peluca
+GOODS_NAME_7,Postizas largas
+GOODS_NAME_8,Postizas largas
+GOODS_NAME_9,Postizas largas
+GOODS_NAME_10,Postizas largas
+GOODS_NAME_11,Cambio de color peluca
+GOODS_NAME_HOUSEKEEPERKEY,Clave para {NAME_AVATAR_28}
+GOODS_NAME_BUTLERKEY,Claves para {NAME_AVATAR_29}
+GOODS_NAME_QUEENKEY,Clave para {NAME_AVATAR_26}
+GOODS_NAME_NUMBERINGROD,Número de barras
+GOODS_DESCRIPTION_1,"Con estos zapatos, puede caminar automáticamente."
+GOODS_DESCRIPTION_2,"Mira más lejos, especialmente en lugares mal iluminados."
+GOODS_DESCRIPTION_3,{JOB_LOBBYIST}.
+GOODS_DESCRIPTION_4,{JOB_LOBBYIST}.
+GOODS_DESCRIPTION_5,{JOB_LOBBYIST}.
+GOODS_DESCRIPTION_6,{JOB_LOBBYIST}.
+GOODS_DESCRIPTION_7,{JOB_LOBBYIST}.
+GOODS_DESCRIPTION_8,{JOB_LOBBYIST}.
+GOODS_DESCRIPTION_9,{JOB_LOBBYIST}.
+GOODS_DESCRIPTION_10,{JOB_LOBBYIST}.
+GOODS_DESCRIPTION_11,"La mochila puede llevar muchas cosas, viaje de aventura, una herramienta esencial para el senderismo."
+GOODS_DESCRIPTION_12,"Grabar lo que se ve, se oye, se encuentra y se siente en el camino."
+GOODS_DESCRIPTION_18,{JOB_LOBBYIST}. Fabricado con materiales especiales.
+GOODS_DESCRIPTION_HOUSEKEEPERKEY,"Cuando se lleva, puede abrir {DOOR_1}."
+GOODS_DESCRIPTION_BUTLERKEY,"Cuando se lleva, puede abrir {DOOR_2}."
+GOODS_DESCRIPTION_QUEENKEY,"Cuando se lleva, se puede abrir la puerta de {SCENE_NAME_HALL_OF_MELODY}."
+GOODS_DESCRIPTION_NUMBERINGROD,Número de disparo.
+GOODS_IN_USE,En uso.
+GOODS_UNUSED,Sin usar.
+GOODS_TELESCOPE_VISUALFIELDDISTANCE,Distancia de la vista: %s.
+GOODS_TELESCOPE_VISUALFIELDSHARPTYPE,Forma del campo de visión: %s.
+GOODS_TELESCOPE_VISUALFIELDSHARPTYPE_RHOMBUS,rombo
+GOODS_TELESCOPE_VISUALFIELDSHARPTYPE_EGG,DanXing
+GOODS_TELESCOPE_VISUALFIELDDISTANCE2,Distancia de la vista: %s (+%s).
+JOB_LOBBYIST,intrigador
+PLAY_CHESS_NAME,DuiYi
+PLAY_CHESS_POINTS,{PLAY_CHESS_NAME} puntos
+SCENE_NAME_1_HOME,Inicio de {NAME_AVATAR_1}
+SCENE_NAME_3_HOME,Inicio de {NAME_AVATAR_3}
+SCENE_NAME_4_HOME,Inicio de {NAME_AVATAR_4}
+SCENE_NAME_3_HOME_COURTYARD,{NAME_AVATAR_3} patio de la casa
+SCENE_NAME_CHORD_SQUARE,Plaza de acordes
+SCENE_NAME_STAVE_AVENUE,Avenida de pautas
+SCENE_NAME_HALL_OF_MELODY,Salón melódico
+SCENE_NAME_CLINKER_VALLEY,Paseo por el cañón sonoro
+SCENE_NAME_CRACKING_VOICE_RIDGE,Cresta de sonido roto
+SCENE_NAME_GRASSLAND,Campo de fútbol
+NPCARTICLETRIGGER_NAME_1,{NAME_AVATAR_1} puertas de casa
+NPCARTICLETRIGGER_NAME_2,{NAME_AVATAR_3} puertas de casa
+NPCARTICLETRIGGER_NAME_3,{NAME_AVATAR_4} puertas de casa
+STARTGAMEPANEL_TITLELABEL38GAMETITLE,{NAME_GAME_NAME}
+STARTGAMEPANEL_COMMONLABELVERSION,Version %s
+STARTGAMEPANEL_COMMONBUTTON31LOADGAME,Cargar el juego
+STARTGAMEPANEL_STARTGAME,Empezar el juego
+STARTGAMEPANEL_CONTINUEGAME,Continuar el juego
+STARTGAMEPANEL_COMMONBUTTON31OPTION,La opción
+STARTGAMEPANEL_COMMONBUTTON31EXITGAME,Salir del juego
+STARTGAMEPANEL_COMMONLABELARCHIVE,El archivo
+STARTGAMEPANEL_ARCHIVE_NEW_GAME,El nuevo juego
+STARTGAMEPANEL_ARCHIVE_CLEAR,borrar
+STARTGAMEPANEL_ARCHIVE_CLEAR_DOUBLE_CONFIRMATION,Eliminar archivo %s segunda confirmación
+PANEL_BUTTON_OK,Determinar
+PANEL_BUTTON_CANCEL,Cancelación
+PANEL_BUTTON_CLOSE,Cierre
+PANEL_BUTTON_YES,Sí
+PANEL_BUTTON_NO,No
+OPTIONPANEL_COMMONLABEL31TITLE,Interfaz de opciones
+OPTIONPANEL_COMMONBUTTONLANGUAGE,Seleccione el idioma (idioma)
+OPTIONPANEL_COMMONLABELVIDEORESOLUTIONRATIO,Resolución de imagen:
+OPTIONPANEL_COMMONLABELFULLSCREEN,Pantalla completa:
+OPTIONPANEL_COMMONLABELWINDOWSTRETCH,La imagen se estira:
+OPTIONPANEL_COMMONLABELMUSIC,Música:
+OPTIONPANEL_COMMONLABELSOUNDEFFECT,Efectos de sonido:
+OPTIONPANEL_COMMONLABELVIDEORESOLUTIONRATIO_2,1280x720
+OPTIONPANEL_COMMONLABELVIDEORESOLUTIONRATIO_3,1920x1080
+OPTIONPANEL_SCREEN_RESOLUTION,Resolución de pantalla
+OPTIONPANEL_COMMONLABELLANGUAGE,Idioma:
+OPTIONPANEL_COMMONBUTTONDEFAULT,Por omisión
+OPTIONPANEL_COMMONBUTTONRETURNTOHUBSCENE,Volver al lobby
+OPTIONPANEL_COMMONBUTTONEXITGAME,Salir del juego
+OPTIONPANEL_COMMONBUTTONRETURNTOGAME,Volver al juego
+OPTIONPANEL_GENERAL,General
+OPTIONPANEL_KEYBOARD,La pulsación
+OPTIONPANEL_KEYBOARD_MOVE,En movimiento:
+OPTIONPANEL_KEYBOARD_MOVE_CONTENT,ADSW (o ←→↓↑)
+OPTIONPANEL_KEYBOARD_INTERACTION_TALK,{DOWNPANEL_INTERACTION} :
+OPTIONPANEL_KEYBOARD_INTERACTION_TALK_CONTENT,E
+OPTIONPANEL_KEYBOARD_WAVE,Agitación:
+OPTIONPANEL_KEYBOARD_WAVE_CONTENT,Entrar (o espacio)
+OPTIONPANEL_KEYBOARD_BAG,Mochila:
+OPTIONPANEL_KEYBOARD_BAG_CONTENT,B
+OPTIONPANEL_KEYBOARD_OPTIONS_SCREEN,Interfaz de opciones:
+OPTIONPANEL_KEYBOARD_OPTIONS_SCREEN_CONTENT,O
+OPTIONPANEL_KEYBOARD_YES,Sí:
+OPTIONPANEL_KEYBOARD_YES_CONTENT,Y
+OPTIONPANEL_KEYBOARD_NO,No:
+OPTIONPANEL_KEYBOARD_NO_CONTENT,N
+OPTIONPANEL_ABOUT,Sobre
+OPTIONPANEL_ABOUT_NAME_OF_THE_GAME,Nombre del juego: {NAME_GAME_NAME}.
+OPTIONPANEL_ABOUT_VERSION,Versión: %s.
+OPTIONPANEL_ABOUT_COPYRIGHT_AND_DEVELOPMENT,Descripción: %s.
+OPTIONPANEL_ABOUT_CONTACT,Contacto: %s.
+OPTIONPANEL_ABOUT_CONTACT_COPY,copiar
+OPTIONPANEL_ABOUT_THANKS,"Gracias: a la gente de mi familia, sin su apoyo, este juego no habría existido."
+LANGUAGEPANEL_COMMONLABEL31TITLE,Seleccione su idioma
+TIME_YEAR,en
+TIME_MONTH,de
+TIME_DAY,el
+TIME_HOUR,cuando
+TIME_MINUTE,las
+TIME_SECOND,segundos
+BOOTSCENE_STARTING_STRING1,Inicio en proceso
+BOOTSCENE_STARTING_STRING2,En marcha.
+BOOTSCENE_STARTING_STRING3,En el inicio..
+BOOTSCENE_STARTING_STRING4,En el inicio...
+DAYNIGHTPANEL_COMMONLABELDAYSNUMBER,Días %s
+DAYNIGHTPANEL_FIRSTSTARTNIGHT,Está oscureciendo.
+CURRENTSCENESHOWNAME_ENTER,Introduzca el %s.
+DOWNPANEL_INTERACTION,Interacción
+DOWNPANEL_CONTROLBAGUSE_COMMONBUTTON13BAGUSE,El uso de
+DOWNPANEL_CONTROLBAGUSE_COMMONBUTTON13DISCARD,tirar
+DOWNPANEL_WRANGLEDIALOG_ASK_DISCARD,¿Tirar?
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_1,La ceniza se apagó y se quemó después de ver.
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_2,Despejado.
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_3,Limpio.
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_4,Vacía.
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_5,Vacío.
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_6,Vacío vacío.
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_7,"Vacío, vacío, vacío."
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_8,"Vacío, vacío, vacío."
+IN_CD,Enfriado.
+AVATAR_CAN_NOT_MOVE,No se puede mover.
+AVATAR_HAD_EQUIP,Ya usado: %s.
+AVATAR_HAD_EQUIP2,Ya lleva eso.
+CHESSPANEL1_PLAYCHESS_START,{PLAY_CHESS_NAME} comienza
+CHESSPANEL1_PLAYCHESS_SUCCESS,{PLAY_CHESS_NAME} éxito
+CHESSPANEL1_PLAYCHESS_FAILURE,{PLAY_CHESS_NAME} falla
+CHESSPANEL1_COMMONBUTTONCONTINUE,continuar
+CHESSPANEL1_MOUSECLICKCONTINUE,(haga clic en cualquier lugar del ratón para continuar)
+CHESSPANEL1_POINTS,%s puntos de juego: %s.
+SLOGAN_NEW_DAY_1,Empieza un nuevo día.
+SLOGAN_NEW_DAY_2,Comienza el día de la aventura.
+SLOGAN_NEW_DAY_3,Un nuevo día.
+SLOGAN_NEW_DAY_4,Un día de aventura.
+SLOGAN_NEW_DAY_5,Muy lejos.
+SLOGAN_NEW_DAY_6,"Largo camino, listo para ir."
+SLOGAN_NEW_DAY_7,Prepárate.
+SLOGAN_NEW_DAY_8,Vamos.
+SLOGAN_AVATAR_DEAD_1,La noche devora a los que no temen a la oscuridad.
+SLOGAN_AVATAR_DEAD_2,Se oscurece y la noche te consume.
+NAVIGATIONMANAGER_NOT_VALID_PATH_END_POSITION,Destino no válido.
+NAVIGATIONMANAGER_END_OBSTRUCTIONS_NEARBY,Stop autowayfinder. Hay obstáculos cercanos.
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_1,¿Un zapato para un par de zapatos?
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_2,El pie izquierdo y el pie derecho son un zapato?
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_3,¿Dónde colocar la batería?
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_4,Interruptor no encontrado.
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_5,¿Dónde está el interruptor?
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_6,Ya está puesto.
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_7,Puede encontrar el camino automáticamente.
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_8,Esta vez no se perderá.
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_9,¿Adónde vamos?
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_10,Voy a pensar adónde voy.
+GOODSUSEFUNCTION_PUTONEQUIP_TELESCOPE_1,Mira más lejos.
+GOODSUSEFUNCTION_PUTONEQUIP_TELESCOPE_2,Mejor visión.
+GOODSADDFUNCTION_TELESCOPE_1,Nuevas habilidades. Clarividencia.
+GOODSADDFUNCTION_TELESCOPE_2,"No es clarividencia, diez metros deben haber sido."
+GOODSREMOVEFUNCTION_TELESCOPE_1,No puedo mirar más lejos.
+GOODSREMOVEFUNCTION_TELESCOPE_2,¿Incómodo al usarlo?
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_1,Fabuloso.
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_2,Chi yu hennang.
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_3,Yuki al viento.
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_4,Levanta la cabeza.
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_5,Profesionalmente.
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_6,"El hombre por el cabello, el caballo por la silla."
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_7,Puede haber un aumento intelectual.
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_8,Inteligencia +1.
+GOODSADDFUNCTION_WIG_1,Buenas cosas.
+GOODSADDFUNCTION_WIG_2,Por fin lo encontré.
+GOODSADDFUNCTION_WIG_3,Muy bien.
+GOODSADDFUNCTION_WIG_OTHER_1,¿Peluca?
+GOODSADDFUNCTION_WIG_OTHER_2,La peluca debe ser usada por {JOB_LOBBYIST}.
+GOODSADDFUNCTION_WIG_OTHER_3,¿Una peluca para {JOB_LOBBYIST}?
+GOODSREMOVEFUNCTION_WIG_1,Inteligencia -1.
+GOODSREMOVEFUNCTION_WIG_2,Cabeza fría.
+GOODSREMOVEFUNCTION_WIG_3,No me siento profesional.
+GOODSREMOVEFUNCTION_WIG_4,Se siente una disminución en la inteligencia.
+GOODSREMOVEFUNCTION_WIG_5,La peluca quemada es como el pelo quemado.
+GOODSREMOVEFUNCTION_WIG_6,No es una pena tirar la peluca.
+GOODSREMOVEFUNCTION_WIG_7,Es profesional sin peluca.
+GOODSREMOVEFUNCTION_WIG_8,El profesional no puede confiar en una peluca.
+GOODSADDFUNCTION_FOOT_1,Esto sabe cómo ir.
+GOODSADDFUNCTION_FOOT_2,¿Este zapato es tan premium? ¿Puede navegar?
+GOODSADDFUNCTION_FOOT_3,¿Este zapato de navegación necesita energía?
+GOODSADDFUNCTION_FOOT_4,¿Es lanzar zapatos para navegar?
+GOODSADDFUNCTION_FOOT_5,¿Cómo llegar? Saberlo con los zapatos.
+GOODSREMOVEFUNCTION_FOOT_1,Descalzo.
+GOODSREMOVEFUNCTION_FOOT_2,Ya no puedo navegar.
+GOODSREMOVEFUNCTION_FOOT_3,"Los zapatos tirados, simplemente desaparecen; Navegación perdida, ir por ti mismo paso a paso."
+CANNOT_WEAR_IT_LOBBYIST_WIG_1,"No se puede usar, {JOB_LOBBYIST} peluca especial."
+CANNOT_WEAR_IT_LOBBYIST_WIG_2,Esta es una peluca para {JOB_LOBBYIST}.
+BAG_IS_FULL,La mochila está llena y no se pueden llevar más artículos.
+BAG_ADD,Obtenido en: %s.
+BAG_REMOVE,Desechar: %s.
+BAG_USE,Uso: %s.
+TOP_BUTTON,Botón superior
+BOTTOM_BUTTON,Botón inferior
+CLEAR_BUTTON,Vaciar el botón
+AVATAR_DESCRIPTION_1,"Soy la serpiente, la serpiente fuerte. ¿Por qué estás tan cansado?"
+AVATAR_DESCRIPTION_2,"Como las nubes del cielo, correré libremente, como la lluvia y la lluvia."
+AVATAR_DESCRIPTION_3,"He empezado a estudiar literatura clásica, música y pintura."
+AVATAR_DESCRIPTION_4,"Abogados, futbolistas, y mi peluca."
+AVATAR_DESCRIPTION_8,Soy un hombre de negocios y el comercio justo es mi credo.
+AVATAR_DESCRIPTION_6,"Soy la serpiente, la serpiente fuerte, la serpiente con armadura. ¿Por qué estás tan cansado?"
+AVATAR_DESCRIPTION_7,"Soy la serpiente, la serpiente fuerte, la serpiente con armadura y brazo robótico. ¿Por qué estás tan cansado?"
+AVATAR_DESCRIPTION_5,La velocidad es la primera prioridad. Mis aprendices son muy fuertes. He estado buscando lejos.
+AVATAR_DESCRIPTION_9,"Si lo necesitas, puedes hablar conmigo. Mi perro corre mucho por aquí. ¿Lo ves?"
+AVATAR_DESCRIPTION_10,"No somos una plaga, somos flotantes."
+AVATAR_DESCRIPTION_11,No somos una plaga.
+AVATAR_DESCRIPTION_12,"No somos una plaga, por el ideal de nosotros."
+AVATAR_DESCRIPTION_13,"No somos una plaga, como lo somos."
+AVATAR_DESCRIPTION_14,No somos una plaga y las túnicas para el viento son muy calientes.
+AVATAR_DESCRIPTION_15,No somos una plaga. Un atraco es una experiencia.
+AVATAR_DESCRIPTION_16,"No somos una plaga, no miramos al futuro, somos espontáneos."
+AVATAR_DESCRIPTION_17,"No somos una plaga, lástima, es una actitud."
+AVATAR_DESCRIPTION_18,"Yo seré como las estrellas del cielo, universal y fabuloso."
+AVATAR_DESCRIPTION_19,"La princesa no es una profesión individual, y la princesa también tiene muchos buenos amigos."
+AVATAR_DESCRIPTION_20,Esta operación debe llevarse a cabo en secreto y no debe ser revelada.
+AVATAR_DESCRIPTION_21,"No somos una plaga, somos uno en un millón."
+AVATAR_DESCRIPTION_22,"No somos una plaga, somos jóvenes."
+AVATAR_DESCRIPTION_23,"No somos una plaga, hugh, somos una vida."
+AVATAR_DESCRIPTION_24,"No somos una plaga, para, es una vida y también una actitud."
+AVATAR_DESCRIPTION_25,"Soy el rey, {NAME_1} te doy la bienvenida."
+AVATAR_DESCRIPTION_26,"Soy la reina, {NAME_1} te doy la bienvenida."
+AVATAR_DESCRIPTION_27,Soy la gran princesa y el trono es mío.
+AVATAR_DESCRIPTION_28,Debes tener hambre. ¿Quieres comer algo? Dímelo.
+AVATAR_DESCRIPTION_29,El servicio es mi propósito. Mi sombrero es muy bonito y no voy a usar esas pelucas.
+ADDAVATARFROMSCENE_ADD_TEAM_MEMBERS,El equipo añade nuevos miembros: %s.
+TEAM_MEMBERS_REPEATEDLY,No se pueden agregar miembros del equipo repetidamente: %s.
+MAXIMUM_OF_AVATAR,Equipo máximo %s personas.
+TIPS_STRING_AND_FLAG,","
+NO_JOURNALRECORDBOOK,No hay {NAME_AVATAR_31}.
+NO_BAG,No hay {NAME_AVATAR_30}.
+SCENE_CONTENT_1_HOME,Hay una gran fuerza en la casa.
+SCENE_CONTENT_3_HOME,En casa hay una mesa y en la mesa hay {NAME_AVATAR_31}.
+SCENE_CONTENT_4_HOME,La cama en casa tiene {NAME_AVATAR_30}.
+SCENE_CONTENT_3_HOME_COURTYARD,El patio de la casa tiene {NAME_AVATAR_2}.
+SCENE_CONTENT_CHORD_SQUARE,Los pequeños compañeros se reúnen a menudo aquí.
+SCENE_CONTENT_STAVE_AVENUE,El camino hacia el frente desconocido. Se dice que hay varios caminos.
+SCENE_CONTENT_HALL_OF_MELODY,Aquí está el palacio de {NAME_1} con muchas habitaciones.
+SCENE_CONTENT_CLINKER_VALLEY,"Un lugar de exilio, donde se puede encontrar a los que buscan."
+SCENE_CONTENT_CRACKING_VOICE_RIDGE,"Desierto, jungla densa."
+SCENE_CONTENT_PLAY_CHESS,Prueba donde la suerte está contigo.
+PLANET_47,Planeta 47
+PLAYCHESSSUCCESSFUNCTION_AVATAR_9_STRING,El éxito nunca es fácil.
+PLAYCHESSFAILUREFUNCTION_AVATAR_9_STRING,El fracaso no dura para siempre.
+I_LIKE_LOBBYIST,Me gusta la gente que habla.
+IS_DOG1,"Me gusta correr sin sentido, con viento y lluvia, querido pequeño compañero, ¿Eres tú?"
+YOU_ARE_A_TALL_FELLOW,¡Eres un hombre alto!
+WINS_AND_LOSSES_ARE_COMMON_1,Ganar o perder es una cosa común.
+WINS_AND_LOSSES_ARE_COMMON_2,La velocidad es la primera prioridad.
+WINS_AND_LOSSES_ARE_COMMON_3,Mis aprendices son muy fuertes.
+WINS_AND_LOSSES_ARE_COMMON_4,He estado buscando lejos.
+I_DONOT_HAVE_MY_BEST_FRIEND_HERE,Voy con mi mejor compañera.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_1_1,Abran.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_1_2,Ábrelo.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_2_1,El conocimiento es poder.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_2_2,Los registros contienen vida.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_3_1,Aislar un mundo.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_3_2,Reserva una parte de tranquilidad.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_9_1,Los zapatos de hierro no tienen lugar.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_9_2,No cuesta mucho.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_10_1,Cartas de compañeros de clase.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_10_2,Carta de un amigo.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_11_1,Silencio.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_11_2,Silencio.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_11_3,La repetición es la magia de la victoria.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_11_4,Hay un secreto para hacer las cosas.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_11_5,La velocidad es lenta.
+PLAYCHESSFAILUREFUNCTION_NPCARTICLE_ODETOJOY,"Soy el guardián de {NAME_1}, fiel defensor del rey."
+PLAYCHESSSTARTWORDSKEY_AVATAR_1_1,Triunfante.
+PLAYCHESSSTARTWORDSKEY_AVATAR_1_2,Debe ganar.
+PLAYCHESSSTARTWORDSKEY_AVATAR_2_1,La suerte se toca.
+PLAYCHESSSTARTWORDSKEY_AVATAR_2_2,La buena suerte también se toca.
+PLAYCHESSSTARTWORDSKEY_AVATAR_3_1,¿Por qué estás tan cansado?
+PLAYCHESSSTARTWORDSKEY_AVATAR_3_2,También es una oportunidad de aprendizaje.
+PLAYCHESSSTARTWORDSKEY_AVATAR_4_1,Tom es un buen amigo de mary.
+PLAYCHESSSTARTWORDSKEY_AVATAR_4_2,La expresión debe ser elegante.
+PLAYCHESSSTARTWORDSKEY_AVATAR_5_1,Lejos.
+PLAYCHESSSTARTWORDSKEY_AVATAR_5_2,Polo.
+PLAYCHESSSTARTWORDSKEY_AVATAR_6_1,Ir y venir libremente.
+PLAYCHESSSTARTWORDSKEY_AVATAR_6_2,Cómodamente reclinado.
+PLAYCHESSSTARTWORDSKEY_AVATAR_7_1,Brazo de acero.
+PLAYCHESSSTARTWORDSKEY_AVATAR_7_2,Fuerza fuerte.
+PLAYCHESSSTARTWORDSKEY_AVATAR_8_1,La negociación es el negocio del comerciante.
+PLAYCHESSSTARTWORDSKEY_AVATAR_8_2,Todo tiene un precio.
+PLAYCHESSSTARTWORDSKEY_AVATAR_9_1,El calor del sol te rodea.
+PLAYCHESSSTARTWORDSKEY_AVATAR_9_2,El sol brilla sobre ti.
+PLAYCHESSSTARTWORDSKEY_AVATAR_10_1,Tengo buena resistencia.
+PLAYCHESSSTARTWORDSKEY_AVATAR_10_2,Tengo un buen temperamento.
+PLAYCHESSSTARTWORDSKEY_AVATAR_11_1,Tengo muchos amigos.
+PLAYCHESSSTARTWORDSKEY_AVATAR_11_2,¿Qué es lo que quieres que haga?
+PLAYCHESSSTARTWORDSKEY_AVATAR_12_1,¿Te atreves a desafiarme?
+PLAYCHESSSTARTWORDSKEY_AVATAR_12_2,Estás jugando con fuego.
+PLAYCHESSSTARTWORDSKEY_AVATAR_13_1,Flotando como un obstáculo al amor.
+PLAYCHESSSTARTWORDSKEY_AVATAR_13_2,Practicando durante mil años.
+PLAYCHESSSTARTWORDSKEY_AVATAR_14_1,Tengo muchos hermanos.
+PLAYCHESSSTARTWORDSKEY_AVATAR_14_2,Tengo varias hermanas.
+PLAYCHESSSTARTWORDSKEY_AVATAR_15_1,"Ideal o realidad, ¿Cuál eliges?"
+PLAYCHESSSTARTWORDSKEY_AVATAR_15_2,El pescado salado no tiene ideales.
+PLAYCHESSSTARTWORDSKEY_AVATAR_16_1,"Sí, sí."
+PLAYCHESSSTARTWORDSKEY_AVATAR_16_2,El cielo y la tierra son anchos y el corazón anchos.
+PLAYCHESSSTARTWORDSKEY_AVATAR_17_1,¡Qué viento tan fuerte aquí!
+PLAYCHESSSTARTWORDSKEY_AVATAR_17_2,El viento sopla con fuerza.
+PLAYCHESSSTARTWORDSKEY_AVATAR_18_1,Fragancia de ciruela del frío amargo.
+PLAYCHESSSTARTWORDSKEY_AVATAR_18_2,El sufrimiento es una vida.
+PLAYCHESSSTARTWORDSKEY_AVATAR_19_1,El futuro tiene acuerdos futuros.
+PLAYCHESSSTARTWORDSKEY_AVATAR_19_2,Hoy hay planes para hoy.
+PLAYCHESSSTARTWORDSKEY_AVATAR_20_1,"Seriedad, es una actitud."
+PLAYCHESSSTARTWORDSKEY_AVATAR_20_2,Mi actitud es seria y acariciada.
+PLAYCHESSSTARTWORDSKEY_AVATAR_21_1,El mundo es tú y yo.
+PLAYCHESSSTARTWORDSKEY_AVATAR_21_2,Tú y yo somos únicos.
+PLAYCHESSSTARTWORDSKEY_AVATAR_22_1,Era muy fuerte cuando era joven.
+PLAYCHESSSTARTWORDSKEY_AVATAR_22_2,Ahora estoy muy fuerte.
+PLAYCHESSSTARTWORDSKEY_AVATAR_23_1,Cultiva a ti mismo.
+PLAYCHESSSTARTWORDSKEY_AVATAR_23_2,Mírate a ti mismo.
+PLAYCHESSSTARTWORDSKEY_AVATAR_24_1,Hugh se ve a sí mismo.
+PLAYCHESSSTARTWORDSKEY_AVATAR_24_2,"Su propia reparación, lo sabe."
+PLAYCHESSSTARTWORDSKEY_AVATAR_25_1,La corona está hecha de oro.
+PLAYCHESSSTARTWORDSKEY_AVATAR_25_2,La corona brilla.
+PLAYCHESSSTARTWORDSKEY_AVATAR_26_1,"Otra corona deslumbrante, también es necesario limpiar con frecuencia."
+PLAYCHESSSTARTWORDSKEY_AVATAR_26_2,"La corona está hecha de oro, lo que representa una calidad."
+PLAYCHESSSTARTWORDSKEY_AVATAR_27_1,Todo sobre ganar o perder.
+PLAYCHESSSTARTWORDSKEY_AVATAR_27_2,"Lo que pido, lo obtengo."
+PLAYCHESSSTARTWORDSKEY_AVATAR_28_1,"Otra habitación limpia, también necesita ser atendido con frecuencia."
+PLAYCHESSSTARTWORDSKEY_AVATAR_28_2,Limpiar la habitación no es un trabajo sencillo.
+PLAYCHESSSTARTWORDSKEY_AVATAR_29_1,"Mantener un trabajo durante mucho tiempo, no es fácil."
+PLAYCHESSSTARTWORDSKEY_AVATAR_29_2,"Cuidar de un palacio, no es fácil."
+PLAYCHESSSTARTWORDSKEY_AVATAR_30_1,No debería verme.
+PLAYCHESSSTARTWORDSKEY_AVATAR_30_2,No me ves.
+NOW_I_AM_THE_TEAM_LEADER,"Ahora, estoy al frente de la fila."
+WAIT_A_MOMENT,"UN momento,"
+DICE_STARTED,%s face dice ha comenzado
+WHERE_ARE_THE_LOBBYISTS,¿Dónde está {JOB_LOBBYIST}?
+SILENT_NOTE_DO,Las notas del silencio · doraemon (1)
+SILENT_NOTE_RE,Notas de silencio · ven (2)
+SILENT_NOTE_MI,Notas de silencio · mi (3)
+SILENT_NOTE_FA,Notas de silencio · cabello (4)
+SILENT_NOTE_SOL,Notas de silencio · soma (5)
+SILENT_NOTE_LA,Las notas del silencio · la (6)
+SILENT_NOTE_SI,Las notas del silencio · oeste (7)
+NOTE_DO,Doraemon (1)
+NOTE_RE,Para venir (2)
+NOTE_MI,Mi (3)
+NOTE_FA,Para cabello (4)
+NOTE_SOL,Ver todos (5)
+NOTE_LA,La la (6)
+NOTE_SI,Oeste (7)
+WIN_THE_KING,Ganaste al rey.
+KING_LOW_VOICE,"Voz baja dice, %s,,, no le digas a nadie,,,"
+WHEN_I_WAS_YOUNG,"Este pequeño regalo, lo usé mucho cuando era joven, y luego tuve una corona, no lo necesitaba."
+ALL_GIFTS_HAD_GIVE_YOU,Mis pequeños regalos para ti.
+YOU_NEED_TO_PROVE,Prueba tu valor para obtener el pequeño regalo que se te ha dado
+DOOR_1,{SCENE_NAME_STAVE_AVENUE} oeste al sur
+DOOR_2,{SCENE_NAME_STAVE_AVENUE} puerta este al sur
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_26_1,Firme.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_26_2,Mucho tiempo.
+NOT_EASY_OPEN_THE_DOOR_WITHOUT_THE_KEY,La puerta no se abre fácilmente sin llave.
+TRUSTED_CLASSMATE,Debo decir que confio más en los compañeros de clase mencionados en la carta de invitación de la princesa.
+YOU_HAD_THE_KEY,Ya tienes esta clave.
+PLAYCHESSSTARTWORDSKEY_AVATAR_26_3,La curiosidad es el motor del progreso.
+VISUAL_RANGE_IS_AT_MAXIMUM,La distancia de visión de {GOODS_NAME_2} ha alcanzado su máximo.
+YOU_ALREADY_HAVE_A_TELESCOPE,Ya tienes un telescopio.
+YOU_NEED_A_TELESCOPE_FIRST,Primero tienes que tener un telescopio.
+YOU_ALREADY_HAVE_THIS_KEY,Ya tienes esta clave.
+HAVE_ALREADY_USED,Ya está en uso.
+DOOR_3,La puerta de {SCENE_NAME_HALL_OF_MELODY}
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_28_1,El viejo castillo.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_28_2,Una larga historia.
+WRANGLEDIALOGTYPEID_SISTER_1_SUCCESS_1,"En mi estudio, vuelve a comprobarlo."
+FAMILY_IS_THE_MOST_IMPORTANT_THING,"Para mí, la familia es lo más importante."
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_65_1,No dejes que nadie lo vea.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_65_2,Una carta secreta.
+TO_ROYAL_HOUSEHOLD_LETTER,El personal real beikai.
+DOOR_CLOSE,La puerta se cerró.
+GUARD_THE_ROYAL_FAMILY,Guarda al real.
+YOU_CAN_NOT_FOUND_QIU_YU,No puedes encontrarlo.
+YOU_WILL_BE_SORRY,¡Atrévete a desafiarme! Te arrepentirás.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_66_1,No se puede ver.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_66_2,Está oscuro dentro.
+WE_LOOK_FORWARD_TO_LEARNING_PARTNERS,Espero un compañero de aprendizaje.
+OWN_WONDERFUL,"Los caminos están destinados a la deriva, pero también a vivir su propia belleza."
+WE_HAVE_FOUND_THE_TWELVE_GOO,"Ya hemos encontrado {TWELVE_BUGS}, sí, los doce gusanos pegajosos aquí."
+MEMBERS_OF_THE_TEAM_WHO_LEFT,Miembros que abandonan el equipo: %s.
+HOWEVER_SOME_MEMBERS_SURVIVED,"Sin embargo, algunos miembros del equipo sobrevivieron tenazmente."
+HOME_SAFE_1,El hogar es un puerto seguro.
+HOME_SAFE_2,El hogar es nuestro refugio seguro.
+HOME_IS_SAFE,Sigue siendo seguro en casa.
+IT_IS_GETTING_DARK_YOU_CAN_NOT_PLAY_CHESS,"Se va a oscurecer, no hay juegos."
+WAY_HOME_1,Espero que recuerdes el camino a casa.
+WAY_HOME_2,"En este momento, volver a casa es la opción más segura."
+IT_IS_GETTING_DARK_YOU_CAN_NOT_OPERATE,Se va a oscurecer. Inoperable.
+IT_IS_PLAY_CHESS_YOU_CAN_NOT_OPERATE,"{PLAY_CHESS_NAME}, no operable."
+WILL_FINAL,Busca su gatito {NAME_2}.
+TWELVE_BUGS,Doce pegajoso
+THE_GAME_HAS_NOT_STARTED_YET,El juego aún no ha comenzado.
+I_AM_GOING_TO_START_COUNTING,Voy a empezar a contar.
+LOOK_WHERE_THEY_ARE,{NAME_2} ver dónde están?
+CURRENT_STANDING_POSITION_CANNOT_START_PATHFINDING,La posición actual. No se puede iniciar la búsqueda de camino.
+THE_LAST_COUNT_IS_NOT_OVER,El último conteo no ha terminado.
+WE_FINALLY_FOUND,¡Finalmente hemos encontrado {NAME_AVATAR_19}! ¡Pequeños amigos reunidos!
+WE_WILL_TOGETHER,¡Siempre creo en volver a verlos!
+I_CAN_NOT_HAVE_MY_LITTLE_GIFT_AGAIN,Usted ha demostrado su valor.
+PICK_UP_OR_NOT,¿Recogerlo?
+ALREADY_MINIMUM,Ya es mínimo.
+ALREADY_MAXIMUM,Ya es el máximo.
+NEED_CHARGING_NUMBERING,Se requiere una carga {GOODS_NAME_NUMBERINGROD}.
+DOOR_NAME,La puerta
+OPEN_DOOR_OR_NOT,¿Abierto?
+DOOR_OPENED,La puerta se abre.
+CAN_NOT_DISCARD,No se puede tirar.
+GIFT_OR_NOT,¿Regalos?
+NO_NUMBERINGROD,No {GOODS_NAME_NUMBERINGROD}.
+NUMBERING,Números
+GUIDE_BOARD,LuPai
+RADIO_CASSETTE_RECORDER,Grabador
+DEAD_TREE,KuShu
+KUMQUAT,Oro Gan
+PINE_TREE,Pino
+FLOWERS,Flores
+GRASS,La Hierba
+OSMANTHUS_FRAGRANS,GuiHua
+BANYAN,Baniano
+ARAUCARIA,Abeto
+FIR,Firme
+PLAY_MUSIC,Toca la música.
+NAME_PATHWAY,Los senderos
+PATHWAY_DESCRIPTION,"Sendero oscuro, hacia adelante."
+START_COUNTING_OR_NOT,¿Empezar a contar?

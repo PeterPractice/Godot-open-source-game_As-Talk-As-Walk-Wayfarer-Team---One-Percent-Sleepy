@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/SoundEffect_CoinCollectRetro8-bit_2.mp3-f8ec14f79aa64b53d95971381164d492.mp3str"
+
+[deps]
+
+source_file="res://Audio/SoundEffect_CoinCollectRetro8-bit_2.mp3"
+dest_files=[ "res://.import/SoundEffect_CoinCollectRetro8-bit_2.mp3-f8ec14f79aa64b53d95971381164d492.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

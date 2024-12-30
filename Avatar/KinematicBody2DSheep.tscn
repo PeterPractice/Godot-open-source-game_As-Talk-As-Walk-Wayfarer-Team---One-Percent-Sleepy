@@ -1,0 +1,373 @@
+[gd_scene load_steps=18 format=2]
+
+[ext_resource path="res://Script/Avatar/KinematicBody2DSheep.gd" type="Script" id=1]
+[ext_resource path="res://Picture/Avatar/Sheep/Sheep_Eat.png" type="Texture" id=2]
+[ext_resource path="res://Picture/Avatar/Sheep/Sheep_Walk.png" type="Texture" id=3]
+[ext_resource path="res://Picture/Avatar/Sheep/Sheep_Idle.png" type="Texture" id=4]
+[ext_resource path="res://Picture/Avatar/Sheep/Sheep_Bleat.png" type="Texture" id=5]
+[ext_resource path="res://Script/Avatar/Area2DInteraction.gd" type="Script" id=6]
+[ext_resource path="res://UI/CommonUI/CommonDiceLabel14.tscn" type="PackedScene" id=7]
+
+[sub_resource type="ShaderMaterial" id=6]
+
+[sub_resource type="ShaderMaterial" id=7]
+
+[sub_resource type="ShaderMaterial" id=8]
+
+[sub_resource type="Animation" id=3]
+resource_name = "bleatToLeft"
+length = 2.0
+tracks/0/type = "value"
+tracks/0/path = NodePath("spriteBleatToLeft:frame")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0, 1 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 1,
+"values": [ 0, 1 ]
+}
+tracks/1/type = "value"
+tracks/1/path = NodePath("spriteBleatToLeft:offset")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/keys = {
+"times": PoolRealArray( 0, 1, 2 ),
+"transitions": PoolRealArray( 1, 1, 1 ),
+"update": 0,
+"values": [ Vector2( 0, -24 ), Vector2( 2, -22 ), Vector2( 0, -24 ) ]
+}
+tracks/2/type = "value"
+tracks/2/path = NodePath("spriteBleatToLeft/commonDiceLabel14Number:rect_position")
+tracks/2/interp = 1
+tracks/2/loop_wrap = true
+tracks/2/imported = false
+tracks/2/enabled = true
+tracks/2/keys = {
+"times": PoolRealArray( 0, 1, 2 ),
+"transitions": PoolRealArray( 1, 1, 1 ),
+"update": 0,
+"values": [ Vector2( -17, -37 ), Vector2( -15, -35 ), Vector2( -17, -37 ) ]
+}
+
+[sub_resource type="Animation" id=9]
+resource_name = "eatToLeft"
+loop = true
+tracks/0/type = "value"
+tracks/0/path = NodePath("spriteEatToLeft:frame")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0, 0.5 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 1,
+"values": [ 0, 1 ]
+}
+tracks/1/type = "value"
+tracks/1/path = NodePath("spriteEatToLeft:rotation_degrees")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/keys = {
+"times": PoolRealArray( 0, 0.5 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 0,
+"values": [ 0.0, 5.0 ]
+}
+
+[sub_resource type="Animation" id=4]
+length = 0.8
+tracks/0/type = "value"
+tracks/0/path = NodePath("spriteWalkToLeft:frame")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0, 0.4 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 1,
+"values": [ 0, 1 ]
+}
+tracks/1/type = "value"
+tracks/1/path = NodePath("spriteWalkToLeft:offset")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/keys = {
+"times": PoolRealArray( 0, 0.4 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 0,
+"values": [ Vector2( 0, -24 ), Vector2( 0, -26 ) ]
+}
+tracks/2/type = "value"
+tracks/2/path = NodePath("spriteWalkToLeft:rotation_degrees")
+tracks/2/interp = 1
+tracks/2/loop_wrap = true
+tracks/2/imported = false
+tracks/2/enabled = true
+tracks/2/keys = {
+"times": PoolRealArray( 0, 0.4, 0.8 ),
+"transitions": PoolRealArray( 1, 1, 1 ),
+"update": 0,
+"values": [ 0.0, 5.0, 0.0 ]
+}
+
+[sub_resource type="Animation" id=17]
+resource_name = "numberFadeOut"
+tracks/0/type = "value"
+tracks/0/path = NodePath("spriteIdleToLeft/commonDiceLabel14Number:modulate")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0, 1 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 0,
+"values": [ Color( 1, 1, 1, 0 ), Color( 1, 1, 1, 1 ) ]
+}
+tracks/1/type = "value"
+tracks/1/path = NodePath("spriteWalkToLeft/commonDiceLabel14Number:modulate")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/keys = {
+"times": PoolRealArray( 0, 1 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 0,
+"values": [ Color( 1, 1, 1, 0 ), Color( 1, 1, 1, 1 ) ]
+}
+tracks/2/type = "value"
+tracks/2/path = NodePath("spriteBleatToLeft/commonDiceLabel14Number:modulate")
+tracks/2/interp = 1
+tracks/2/loop_wrap = true
+tracks/2/imported = false
+tracks/2/enabled = true
+tracks/2/keys = {
+"times": PoolRealArray( 0, 1 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 0,
+"values": [ Color( 1, 1, 1, 0 ), Color( 1, 1, 1, 1 ) ]
+}
+tracks/3/type = "value"
+tracks/3/path = NodePath("spriteEatToLeft/commonDiceLabel14Number:modulate")
+tracks/3/interp = 1
+tracks/3/loop_wrap = true
+tracks/3/imported = false
+tracks/3/enabled = true
+tracks/3/keys = {
+"times": PoolRealArray( 0, 1 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 0,
+"values": [ Color( 1, 1, 1, 0 ), Color( 1, 1, 1, 1 ) ]
+}
+tracks/4/type = "value"
+tracks/4/path = NodePath("spriteIdleToLeft/commonDiceLabel14Number:rect_scale")
+tracks/4/interp = 1
+tracks/4/loop_wrap = true
+tracks/4/imported = false
+tracks/4/enabled = true
+tracks/4/keys = {
+"times": PoolRealArray( 0, 1 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 0,
+"values": [ Vector2( 10, 10 ), Vector2( 1, 1 ) ]
+}
+tracks/5/type = "value"
+tracks/5/path = NodePath("spriteWalkToLeft/commonDiceLabel14Number:rect_scale")
+tracks/5/interp = 1
+tracks/5/loop_wrap = true
+tracks/5/imported = false
+tracks/5/enabled = true
+tracks/5/keys = {
+"times": PoolRealArray( 0, 1 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 0,
+"values": [ Vector2( 10, 10 ), Vector2( 1, 1 ) ]
+}
+tracks/6/type = "value"
+tracks/6/path = NodePath("spriteBleatToLeft/commonDiceLabel14Number:rect_scale")
+tracks/6/interp = 1
+tracks/6/loop_wrap = true
+tracks/6/imported = false
+tracks/6/enabled = true
+tracks/6/keys = {
+"times": PoolRealArray( 0, 1 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 0,
+"values": [ Vector2( 10, 10 ), Vector2( 1, 1 ) ]
+}
+tracks/7/type = "value"
+tracks/7/path = NodePath("spriteEatToLeft/commonDiceLabel14Number:rect_scale")
+tracks/7/interp = 1
+tracks/7/loop_wrap = true
+tracks/7/imported = false
+tracks/7/enabled = true
+tracks/7/keys = {
+"times": PoolRealArray( 0, 1 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 0,
+"values": [ Vector2( 10, 10 ), Vector2( 1, 1 ) ]
+}
+
+[sub_resource type="CapsuleShape2D" id=14]
+radius = 6.0
+
+[sub_resource type="RectangleShape2D" id=15]
+extents = Vector2( 26, 24 )
+
+[sub_resource type="RectangleShape2D" id=16]
+extents = Vector2( 24, 15 )
+
+[node name="KinematicBody2DSheep" type="KinematicBody2D"]
+collision_layer = 8
+collision_mask = 33
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="spriteIdleToLeft" type="Sprite" parent="."]
+material = SubResource( 6 )
+texture = ExtResource( 4 )
+offset = Vector2( 0, -24 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="commonDiceLabel14Number" parent="spriteIdleToLeft" instance=ExtResource( 7 )]
+modulate = Color( 1, 1, 1, 0 )
+margin_left = -17.0
+margin_top = -35.0
+margin_right = 17.0
+margin_bottom = -17.0
+rect_pivot_offset = Vector2( 17, 9 )
+text = "999"
+align = 2
+fontColorType = 4
+
+[node name="spriteWalkToLeft" type="Sprite" parent="."]
+material = SubResource( 7 )
+texture = ExtResource( 3 )
+offset = Vector2( 0, -24 )
+hframes = 2
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="commonDiceLabel14Number" parent="spriteWalkToLeft" instance=ExtResource( 7 )]
+modulate = Color( 1, 1, 1, 0 )
+margin_left = -17.0
+margin_top = -37.0
+margin_right = 17.0
+margin_bottom = -19.0
+rect_pivot_offset = Vector2( 17, 9 )
+text = "999"
+align = 2
+fontColorType = 4
+
+[node name="spriteBleatToLeft" type="Sprite" parent="."]
+material = SubResource( 8 )
+texture = ExtResource( 5 )
+offset = Vector2( 0, -24 )
+hframes = 2
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="commonDiceLabel14Number" parent="spriteBleatToLeft" instance=ExtResource( 7 )]
+modulate = Color( 1, 1, 1, 0 )
+margin_left = -17.0
+margin_top = -37.0
+margin_right = 17.0
+margin_bottom = -19.0
+rect_pivot_offset = Vector2( 17, 9 )
+text = "999"
+align = 2
+fontColorType = 4
+
+[node name="spriteEatToLeft" type="Sprite" parent="."]
+material = SubResource( 8 )
+texture = ExtResource( 2 )
+offset = Vector2( 0, -24 )
+hframes = 2
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="commonDiceLabel14Number" parent="spriteEatToLeft" instance=ExtResource( 7 )]
+modulate = Color( 1, 1, 1, 0 )
+margin_left = -17.0
+margin_top = -35.0
+margin_right = 17.0
+margin_bottom = -17.0
+rect_pivot_offset = Vector2( 17, 9 )
+text = "999"
+align = 2
+fontColorType = 4
+
+[node name="animationPlayer1" type="AnimationPlayer" parent="."]
+anims/bleatToLeft = SubResource( 3 )
+anims/eatToLeft = SubResource( 9 )
+anims/walkToLeft = SubResource( 4 )
+
+[node name="animationPlayerNumber" type="AnimationPlayer" parent="."]
+anims/numberFadeOut = SubResource( 17 )
+
+[node name="collisionShape2D1" type="CollisionShape2D" parent="."]
+position = Vector2( 0, -6 )
+rotation = 1.5708
+shape = SubResource( 14 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="area2DMouse" type="Area2D" parent="."]
+collision_layer = 8
+collision_mask = 0
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="collisionShape2D2" type="CollisionShape2D" parent="area2DMouse"]
+position = Vector2( 0, -24 )
+shape = SubResource( 15 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="area2DInteraction" type="Area2D" parent="."]
+collision_layer = 8
+collision_mask = 16
+script = ExtResource( 6 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="collisionShape2D3" type="CollisionShape2D" parent="area2DInteraction"]
+position = Vector2( 0, -33 )
+shape = SubResource( 16 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="visibilityNotifier2DScreen" type="VisibilityNotifier2D" parent="."]
+rect = Rect2( -26, -48, 52, 48 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[connection signal="animation_finished" from="animationPlayer1" to="." method="_on_animationPlayer1_animation_finished"]
+[connection signal="input_event" from="area2DMouse" to="." method="_on_area2D1_input_event"]
+[connection signal="mouse_entered" from="area2DMouse" to="." method="_on_area2D1_mouse_entered"]
+[connection signal="mouse_exited" from="area2DMouse" to="." method="_on_area2D1_mouse_exited"]

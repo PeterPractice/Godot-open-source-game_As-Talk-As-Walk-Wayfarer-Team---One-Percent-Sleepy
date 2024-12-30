@@ -1,0 +1,14 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://Script/UI/CommonUI/CommonButton.gd" type="Script" id=1]
+[ext_resource path="res://Font/TitleFont.tres" type="DynamicFont" id=2]
+
+[node name="TitleButton" type="Button"]
+margin_right = 12.0
+margin_bottom = 20.0
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+custom_fonts/font = ExtResource( 2 )
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_lock_": true
+}
